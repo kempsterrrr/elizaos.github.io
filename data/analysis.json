@@ -3,46 +3,46 @@
     {
       "username": "wtfsayo",
       "tag_scores": {
-        "typescript": 21460.968702626324,
-        "plugin": 19727.237747451127,
-        "docs": 972.7634638899464,
-        "api": 22.253428193238005,
-        "infra": 2767.695603427016,
+        "typescript": 21539.684325887174,
+        "plugin": 19798.481216037344,
+        "docs": 969.8445004620372,
+        "api": 11.126714096619002,
+        "infra": 2744.7942592377585,
         "architect": 166.0,
-        "maintainer": 130.5,
+        "maintainer": 127.5,
         "feature-dev": 141.10000000000005,
-        "bug-fix": 5.2,
-        "blockchain": 2461.0390451767144
+        "bug-fix": 2.6,
+        "blockchain": 2491.422243265316
       },
       "tag_levels": {
         "typescript": {
           "level": 24,
-          "progress": 0.5498188978079839,
-          "points": 21460.968702626324,
+          "progress": 0.5591708163819165,
+          "points": 21539.684325887174,
           "points_next_level": 25250.16829404235
         },
         "plugin": {
           "level": 24,
-          "progress": 0.3438405919743985,
-          "points": 19727.237747451127,
+          "progress": 0.35230477086979944,
+          "points": 19798.481216037344,
           "points_next_level": 25250.16829404235
         },
         "docs": {
           "level": 16,
-          "progress": 0.9649906374746418,
-          "points": 972.7634638899464,
+          "progress": 0.9561027508822366,
+          "points": 969.8445004620372,
           "points_next_level": 984.2612533569336
         },
         "api": {
-          "level": 7,
-          "progress": 0.721937639446241,
-          "points": 22.253428193238005,
-          "points_next_level": 24.62890625
+          "level": 6,
+          "progress": 0.1292447247835834,
+          "points": 11.126714096619002,
+          "points_next_level": 16.0859375
         },
         "infra": {
           "level": 19,
-          "progress": 0.4978783548186639,
-          "points": 2767.695603427016,
+          "progress": 0.47721708318021,
+          "points": 2744.7942592377585,
           "points_next_level": 3324.256730079651
         },
         "architect": {
@@ -52,10 +52,10 @@
           "points_next_level": 193.6195068359375
         },
         "maintainer": {
-          "level": 12,
-          "progress": 0.027032163495101055,
-          "points": 130.5,
-          "points_next_level": 193.6195068359375
+          "level": 11,
+          "progress": 0.9711821255793212,
+          "points": 127.5,
+          "points_next_level": 128.746337890625
         },
         "feature-dev": {
           "level": 12,
@@ -64,45 +64,45 @@
           "points_next_level": 193.6195068359375
         },
         "bug-fix": {
-          "level": 4,
-          "progress": 0.4493827160493828,
-          "points": 5.2,
-          "points_next_level": 6.59375
+          "level": 3,
+          "progress": 0.1333333333333334,
+          "points": 2.6,
+          "points_next_level": 4.0625
         },
         "blockchain": {
           "level": 19,
-          "progress": 0.22121710745420284,
-          "points": 2461.0390451767144,
+          "progress": 0.24862840278105164,
+          "points": 2491.422243265316,
           "points_next_level": 3324.256730079651
         }
       },
       "tags": [
-        "blockchain",
-        "typescript",
-        "maintainer",
-        "infra",
-        "bug-fix",
-        "api",
-        "feature-dev",
-        "docs",
         "plugin",
+        "infra",
+        "feature-dev",
+        "bug-fix",
+        "typescript",
+        "blockchain",
+        "docs",
+        "maintainer",
+        "api",
         "architect"
       ],
       "stats": {
         "total_prs": 249,
-        "merged_prs": 4,
-        "closed_prs": 85,
-        "total_files": 3073,
-        "total_additions": 530930,
-        "total_deletions": 112068,
+        "merged_prs": 2,
+        "closed_prs": 84,
+        "total_files": 3072,
+        "total_additions": 533804,
+        "total_deletions": 111146,
         "files_by_type": {
-          ".example": 4,
-          ".json": 257,
-          ".ts": 2235,
+          ".example": 2,
+          ".json": 253,
+          ".ts": 2238,
           ".md": 166,
-          ".yaml": 168,
-          ".mjs": 81,
-          ".cjs": 81
+          ".yaml": 167,
+          ".mjs": 82,
+          ".cjs": 82
         },
         "prs_by_month": {
           "2025-01": 249
@@ -111,106 +111,106 @@
       "focus_areas": [
         [
           "packages",
-          2731
+          2735
         ],
         [
           "agent",
-          89
+          86
         ]
       ]
     },
     {
       "username": "sweetmantech",
       "tag_scores": {
-        "typescript": 6902.9638853756405,
-        "plugin": 6742.987594130659,
-        "docs": 858.215855997372,
-        "infra": 1956.7261323295916
+        "typescript": 6988.185661738303,
+        "plugin": 6826.234354552025,
+        "docs": 868.8111134788211,
+        "infra": 1980.8832450744014
       },
       "tag_levels": {
         "typescript": {
           "level": 21,
-          "progress": 0.7682930756087386,
-          "points": 6902.9638853756405,
+          "progress": 0.8024645830662981,
+          "points": 6988.185661738303,
           "points_next_level": 7480.8276426792145
         },
         "plugin": {
           "level": 21,
-          "progress": 0.7041471347162693,
-          "points": 6742.987594130659,
+          "progress": 0.7375267169776254,
+          "points": 6826.234354552025,
           "points_next_level": 7480.8276426792145
         },
         "docs": {
           "level": 16,
-          "progress": 0.6162071828255524,
-          "points": 858.215855997372,
+          "progress": 0.6484684458520322,
+          "points": 868.8111134788211,
           "points_next_level": 984.2612533569336
         },
         "infra": {
           "level": 18,
-          "progress": 0.6493496023304459,
-          "points": 1956.7261323295916,
+          "progress": 0.6820409149645356,
+          "points": 1980.8832450744014,
           "points_next_level": 2215.8378200531006
         }
       },
       "tags": [
-        "typescript",
+        "plugin",
         "infra",
-        "docs",
-        "plugin"
+        "typescript",
+        "docs"
       ],
       "stats": {
-        "total_prs": 243,
+        "total_prs": 246,
         "merged_prs": 0,
-        "closed_prs": 162,
-        "total_files": 1863,
-        "total_additions": 80028,
-        "total_deletions": 648,
+        "closed_prs": 164,
+        "total_files": 1886,
+        "total_additions": 81016,
+        "total_deletions": 656,
         "files_by_type": {
-          ".example": 81,
-          ".json": 486,
-          ".ts": 810,
-          ".md": 162,
-          ".yaml": 162
+          ".example": 82,
+          ".json": 492,
+          ".ts": 820,
+          ".md": 164,
+          ".yaml": 164
         },
         "prs_by_month": {
-          "2025-01": 243
+          "2025-01": 246
         }
       },
       "focus_areas": [
         [
           "packages",
-          1134
+          1148
         ],
         [
           "agent",
-          324
+          328
         ]
       ]
     },
     {
       "username": "IkigaiLabsETH",
       "tag_scores": {
-        "docs": 3212.1566625765313,
+        "docs": 3248.039904159116,
         "infra": 11.714030352357653,
-        "typescript": 49315.98662918587,
-        "api": 1995.25354734655,
-        "db": 4131.324843040778,
-        "ai": 2235.2727588367848,
+        "typescript": 49920.51697918031,
+        "api": 2014.3069755397878,
+        "db": 4181.99628092754,
+        "ai": 2262.2923088454386,
         "blockchain": 4.643856189774724,
         "architect": 4.0,
         "feature-dev": 3.4,
-        "core": 8008.146747854219,
-        "plugin": 49393.537647757395,
-        "test": 2995.969174584549,
+        "core": 8106.973622210427,
+        "plugin": 49999.75240480874,
+        "test": 3032.3362919821707,
         "security": 12.21704891355634,
-        "client": 6544.744353294048
+        "client": 6625.543666297678
       },
       "tag_levels": {
         "docs": {
           "level": 19,
-          "progress": 0.8988648908015884,
-          "points": 3212.1566625765313,
+          "progress": 0.9312382482551571,
+          "points": 3248.039904159116,
           "points_next_level": 3324.256730079651
         },
         "infra": {
@@ -221,26 +221,26 @@
         },
         "typescript": {
           "level": 26,
-          "progress": 0.6040768255369003,
-          "points": 49315.98662918587,
+          "progress": 0.6359977433048687,
+          "points": 49920.51697918031,
           "points_next_level": 56814.128661595285
         },
         "api": {
           "level": 18,
-          "progress": 0.7014879428104486,
-          "points": 1995.25354734655,
+          "progress": 0.7272725464754763,
+          "points": 2014.3069755397878,
           "points_next_level": 2215.8378200531006
         },
         "db": {
           "level": 20,
-          "progress": 0.4854170239912848,
-          "points": 4131.324843040778,
+          "progress": 0.5158937312051354,
+          "points": 4181.99628092754,
           "points_next_level": 4986.885095119476
         },
         "ai": {
           "level": 19,
-          "progress": 0.017533929282403386,
-          "points": 2235.2727588367848,
+          "progress": 0.041910588471668404,
+          "points": 2262.2923088454386,
           "points_next_level": 3324.256730079651
         },
         "blockchain": {
@@ -263,20 +263,20 @@
         },
         "core": {
           "level": 22,
-          "progress": 0.14095997137570349,
-          "points": 8008.146747854219,
+          "progress": 0.16737781446860264,
+          "points": 8106.973622210427,
           "points_next_level": 11221.741464018822
         },
         "plugin": {
           "level": 26,
-          "progress": 0.6081717393599476,
-          "points": 49393.537647757395,
+          "progress": 0.64018159859984,
+          "points": 49999.75240480874,
           "points_next_level": 56814.128661595285
         },
         "test": {
           "level": 19,
-          "progress": 0.7038235701994309,
-          "points": 2995.969174584549,
+          "progress": 0.7366334736291285,
+          "points": 3032.3362919821707,
           "points_next_level": 3324.256730079651
         },
         "security": {
@@ -287,120 +287,120 @@
         },
         "client": {
           "level": 21,
-          "progress": 0.6246572358689252,
-          "points": 6544.744353294048,
+          "progress": 0.6570554613543881,
+          "points": 6625.543666297678,
           "points_next_level": 7480.8276426792145
         }
       },
       "tags": [
-        "blockchain",
-        "test",
-        "ai",
-        "infra",
-        "feature-dev",
-        "docs",
-        "security",
-        "typescript",
-        "db",
-        "api",
         "core",
-        "plugin",
+        "ai",
+        "db",
+        "docs",
+        "feature-dev",
+        "api",
+        "client",
         "architect",
-        "client"
+        "infra",
+        "plugin",
+        "typescript",
+        "test",
+        "blockchain",
+        "security"
       ],
       "stats": {
-        "total_prs": 164,
+        "total_prs": 166,
         "merged_prs": 0,
-        "closed_prs": 81,
-        "total_files": 16342,
-        "total_additions": 934705,
-        "total_deletions": 174516,
+        "closed_prs": 82,
+        "total_files": 16542,
+        "total_additions": 946141,
+        "total_deletions": 176662,
         "files_by_type": {
-          ".md": 584,
-          ".json": 10051,
-          ".ts": 5542,
-          ".sql": 162
+          ".md": 590,
+          ".json": 10175,
+          ".ts": 5610,
+          ".sql": 164
         },
         "prs_by_month": {
-          "2025-01": 164
+          "2025-01": 166
         }
       },
       "focus_areas": [
         [
           "packages",
-          14942
+          15126
         ],
         [
           "agent",
-          328
+          332
         ],
         [
           "docs",
-          257
+          259
         ]
       ]
     },
     {
       "username": "shakkernerd",
       "tag_scores": {
-        "plugin": 154.05835507009644,
-        "typescript": 2787.3464697893655,
-        "infra": 1246.3353331931128,
-        "core": 3459.698034602331,
-        "ai": 2277.9694732818834,
-        "test": 704.0885055123924,
-        "architect": 162.0,
-        "feature-dev": 137.70000000000007,
+        "plugin": 155.96031007096184,
+        "typescript": 2821.75815460158,
+        "infra": 1261.6777447140155,
+        "core": 3502.4103560171748,
+        "ai": 2306.0925531989437,
+        "test": 712.7809561977306,
+        "architect": 164.0,
+        "feature-dev": 139.40000000000006,
         "maintainer": 1.5,
         "bug-fix": 1.3
       },
       "tag_levels": {
         "plugin": {
           "level": 12,
-          "progress": 0.3901769805758871,
-          "points": 154.05835507009644,
+          "progress": 0.41949503350573136,
+          "points": 155.96031007096184,
           "points_next_level": 193.6195068359375
         },
         "typescript": {
           "level": 19,
-          "progress": 0.5156070909351189,
-          "points": 2787.3464697893655,
+          "progress": 0.5466528305024727,
+          "points": 2821.75815460158,
           "points_next_level": 3324.256730079651
         },
         "infra": {
           "level": 17,
-          "progress": 0.5319890109212217,
-          "points": 1246.3353331931128,
+          "progress": 0.5631328551932436,
+          "points": 1261.6777447140155,
           "points_next_level": 1476.8918800354004
         },
         "core": {
           "level": 20,
-          "progress": 0.08146216398722148,
-          "points": 3459.698034602331,
+          "progress": 0.10715180234114226,
+          "points": 3502.4103560171748,
           "points_next_level": 4986.885095119476
         },
         "ai": {
           "level": 19,
-          "progress": 0.05605430642399866,
-          "points": 2277.9694732818834,
+          "progress": 0.08142655482454847,
+          "points": 2306.0925531989437,
           "points_next_level": 3324.256730079651
         },
         "test": {
           "level": 16,
-          "progress": 0.14690825334919935,
-          "points": 704.0885055123924,
+          "progress": 0.17337570243152647,
+          "points": 712.7809561977306,
           "points_next_level": 984.2612533569336
         },
         "architect": {
           "level": 12,
-          "progress": 0.5125950011384143,
-          "points": 162.0,
+          "progress": 0.54342438765545,
+          "points": 164.0,
           "points_next_level": 193.6195068359375
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.13801795495643093,
-          "points": 137.70000000000007,
+          "progress": 0.16422293349591113,
+          "points": 139.40000000000006,
           "points_next_level": 193.6195068359375
         },
         "maintainer": {
@@ -417,39 +417,39 @@
         }
       },
       "tags": [
-        "typescript",
-        "test",
-        "ai",
-        "maintainer",
+        "plugin",
         "infra",
         "bug-fix",
-        "api",
-        "feature-dev",
+        "typescript",
+        "test",
         "core",
-        "plugin",
+        "ai",
+        "maintainer",
+        "feature-dev",
+        "api",
         "architect"
       ],
       "stats": {
-        "total_prs": 163,
-        "merged_prs": 163,
-        "closed_prs": 163,
-        "total_files": 488,
-        "total_additions": 35968,
-        "total_deletions": 28674,
+        "total_prs": 165,
+        "merged_prs": 165,
+        "closed_prs": 165,
+        "total_files": 494,
+        "total_additions": 36412,
+        "total_deletions": 29028,
         "files_by_type": {
-          ".ts": 324,
-          ".yaml": 82,
-          ".example": 81,
+          ".ts": 328,
+          ".yaml": 83,
+          ".example": 82,
           ".json": 1
         },
         "prs_by_month": {
-          "2025-01": 163
+          "2025-01": 165
         }
       },
       "focus_areas": [
         [
           "packages",
-          324
+          328
         ],
         [
           "agent",
@@ -460,23 +460,23 @@
     {
       "username": "antman1p",
       "tag_scores": {
-        "db": 9.545006734995853,
-        "typescript": 443.9950086037929,
+        "db": 4.772503367497927,
+        "typescript": 445.1614199717882,
         "maintainer": 124.5,
         "bug-fix": 107.89999999999985,
-        "client": 435.5729438376201
+        "client": 440.9503875887018
       },
       "tag_levels": {
         "db": {
-          "level": 5,
-          "progress": 0.7772857244433523,
-          "points": 9.545006734995853,
-          "points_next_level": 10.390625
+          "level": 4,
+          "progress": 0.2804951575300451,
+          "points": 4.772503367497927,
+          "points_next_level": 6.59375
         },
         "typescript": {
           "level": 15,
-          "progress": 0.03243305457747899,
-          "points": 443.9950086037929,
+          "progress": 0.03776042448885549,
+          "points": 445.1614199717882,
           "points_next_level": 655.8408355712891
         },
         "maintainer": {
@@ -492,28 +492,28 @@
           "points_next_level": 128.746337890625
         },
         "client": {
-          "level": 14,
-          "progress": 0.990950228544474,
-          "points": 435.5729438376201,
-          "points_next_level": 436.8938903808594
+          "level": 15,
+          "progress": 0.018527306714940812,
+          "points": 440.9503875887018,
+          "points_next_level": 655.8408355712891
         }
       },
       "tags": [
+        "db",
+        "bug-fix",
         "typescript",
         "maintainer",
-        "bug-fix",
-        "db",
         "client"
       ],
       "stats": {
         "total_prs": 83,
         "merged_prs": 0,
         "closed_prs": 0,
-        "total_files": 85,
+        "total_files": 84,
         "total_additions": 498,
-        "total_deletions": 417,
+        "total_deletions": 416,
         "files_by_type": {
-          ".sql": 2,
+          ".sql": 1,
           ".ts": 83
         },
         "prs_by_month": {
@@ -523,164 +523,44 @@
       "focus_areas": [
         [
           "packages",
-          85
-        ]
-      ]
-    },
-    {
-      "username": "lalalune",
-      "tag_scores": {
-        "typescript": 821.9589990340844,
-        "docs": 254.14479760707377,
-        "client": 74.14833323833294,
-        "core": 4.0,
-        "plugin": 848.3298622150854,
-        "ai": 172.91399214482897,
-        "blockchain": 134.23107780735705,
-        "test": 68.70233644094536,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 16,
-          "progress": 0.5058094882858908,
-          "points": 821.9589990340844,
-          "points_next_level": 984.2612533569336
-        },
-        "docs": {
-          "level": 13,
-          "progress": 0.621985861079779,
-          "points": 254.14479760707377,
-          "points_next_level": 290.92926025390625
-        },
-        "client": {
-          "level": 10,
-          "progress": 0.606374137955018,
-          "points": 74.14833323833294,
-          "points_next_level": 85.49755859375
-        },
-        "core": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "plugin": {
-          "level": 16,
-          "progress": 0.5861055410063795,
-          "points": 848.3298622150854,
-          "points_next_level": 984.2612533569336
-        },
-        "ai": {
-          "level": 12,
-          "progress": 0.6808308422768264,
-          "points": 172.91399214482897,
-          "points_next_level": 193.6195068359375
-        },
-        "blockchain": {
-          "level": 12,
-          "progress": 0.0845455834191735,
-          "points": 134.23107780735705,
-          "points_next_level": 193.6195068359375
-        },
-        "test": {
-          "level": 10,
-          "progress": 0.4174903051881674,
-          "points": 68.70233644094536,
-          "points_next_level": 85.49755859375
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "blockchain",
-        "typescript",
-        "test",
-        "ai",
-        "feature-dev",
-        "docs",
-        "core",
-        "plugin",
-        "architect",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 82,
-        "merged_prs": 80,
-        "closed_prs": 80,
-        "total_files": 280,
-        "total_additions": 94,
-        "total_deletions": 9488,
-        "files_by_type": {
-          ".json": 38,
-          ".ts": 118,
-          ".md": 96,
-          ".mjs": 16
-        },
-        "prs_by_month": {
-          "2025-01": 82
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          194
-        ],
-        [
-          "agent",
-          4
-        ],
-        [
-          "docs",
-          2
+          84
         ]
       ]
     },
     {
       "username": "bbopar",
       "tag_scores": {
-        "typescript": 4494.218168857865,
-        "db": 3062.4410541333064,
-        "core": 2091.402679570747,
-        "test": 389.65630232025717,
+        "typescript": 4549.627101103403,
+        "db": 3100.2185224016766,
+        "core": 2117.2224657382867,
+        "test": 394.4668739538406,
         "infra": 2.8529325012980813,
-        "architect": 162.0,
-        "feature-dev": 137.70000000000007
+        "architect": 164.0,
+        "feature-dev": 139.40000000000006
       },
       "tag_levels": {
         "typescript": {
           "level": 20,
-          "progress": 0.7036818710537214,
-          "points": 4494.218168857865,
+          "progress": 0.7370079789264276,
+          "points": 4549.627101103403,
           "points_next_level": 4986.885095119476
         },
         "db": {
           "level": 19,
-          "progress": 0.7637935679570163,
-          "points": 3062.4410541333064,
+          "progress": 0.7978758701684295,
+          "points": 3100.2185224016766,
           "points_next_level": 3324.256730079651
         },
         "core": {
           "level": 18,
-          "progress": 0.8316045413560658,
-          "points": 2091.402679570747,
+          "progress": 0.8665459149657799,
+          "points": 2117.2224657382867,
           "points_next_level": 2215.8378200531006
         },
         "test": {
           "level": 14,
-          "progress": 0.6763764754549291,
-          "points": 389.65630232025717,
+          "progress": 0.709333580401514,
+          "points": 394.4668739538406,
           "points_next_level": 436.8938903808594
         },
         "infra": {
@@ -691,156 +571,156 @@
         },
         "architect": {
           "level": 12,
-          "progress": 0.5125950011384143,
-          "points": 162.0,
+          "progress": 0.54342438765545,
+          "points": 164.0,
           "points_next_level": 193.6195068359375
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.13801795495643093,
-          "points": 137.70000000000007,
+          "progress": 0.16422293349591113,
+          "points": 139.40000000000006,
           "points_next_level": 193.6195068359375
         }
       },
       "tags": [
+        "infra",
         "typescript",
         "test",
-        "infra",
+        "core",
         "db",
         "feature-dev",
-        "core",
         "architect"
       ],
       "stats": {
-        "total_prs": 81,
-        "merged_prs": 80,
-        "closed_prs": 80,
-        "total_files": 649,
-        "total_additions": 15499,
-        "total_deletions": 726,
+        "total_prs": 82,
+        "merged_prs": 81,
+        "closed_prs": 81,
+        "total_files": 657,
+        "total_additions": 15689,
+        "total_deletions": 734,
         "files_by_type": {
-          ".ts": 648,
+          ".ts": 656,
           ".yaml": 1
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "packages",
-          648
+          656
         ]
       ]
     },
     {
       "username": "HashWarlock",
       "tag_scores": {
-        "docs": 571.477877275596,
-        "plugin": 4337.861949247948,
-        "typescript": 5179.327436559925,
-        "blockchain": 513.5278502336554,
-        "test": 2119.0657201617455,
-        "maintainer": 121.5,
-        "bug-fix": 105.29999999999986
+        "docs": 578.5331597110973,
+        "plugin": 4391.415800473232,
+        "typescript": 5243.269750591529,
+        "blockchain": 519.86770023654,
+        "test": 2145.2270253489273,
+        "maintainer": 123.0,
+        "bug-fix": 106.59999999999985
       },
       "tag_levels": {
         "docs": {
           "level": 15,
-          "progress": 0.6146876668120758,
-          "points": 571.477877275596,
+          "progress": 0.6469113748403603,
+          "points": 578.5331597110973,
           "points_next_level": 655.8408355712891
         },
         "plugin": {
           "level": 20,
-          "progress": 0.6096402782975606,
-          "points": 4337.861949247948,
+          "progress": 0.6418506341121029,
+          "points": 4391.415800473232,
           "points_next_level": 4986.885095119476
         },
         "typescript": {
           "level": 21,
-          "progress": 0.07716390324578618,
-          "points": 5179.327436559925,
+          "progress": 0.10280295178528438,
+          "points": 5243.269750591529,
           "points_next_level": 7480.8276426792145
         },
         "blockchain": {
           "level": 15,
-          "progress": 0.3500115509085702,
-          "points": 513.5278502336554,
+          "progress": 0.37896765256767556,
+          "points": 519.86770023654,
           "points_next_level": 655.8408355712891
         },
         "test": {
           "level": 18,
-          "progress": 0.8690403524119273,
-          "points": 2119.0657201617455,
+          "progress": 0.904443896528504,
+          "points": 2145.2270253489273,
           "points_next_level": 2215.8378200531006
         },
         "maintainer": {
           "level": 11,
-          "progress": 0.8324498862526603,
-          "points": 121.5,
+          "progress": 0.8671329460843255,
+          "points": 123.0,
           "points_next_level": 128.746337890625
         },
         "bug-fix": {
           "level": 11,
-          "progress": 0.4578728400706724,
-          "points": 105.29999999999986,
+          "progress": 0.4879314919247822,
+          "points": 106.59999999999985,
           "points_next_level": 128.746337890625
         }
       },
       "tags": [
-        "blockchain",
+        "plugin",
+        "bug-fix",
         "typescript",
         "test",
-        "maintainer",
-        "bug-fix",
+        "blockchain",
         "docs",
-        "plugin"
+        "maintainer"
       ],
       "stats": {
-        "total_prs": 81,
-        "merged_prs": 81,
-        "closed_prs": 81,
-        "total_files": 1053,
-        "total_additions": 32967,
-        "total_deletions": 2430,
+        "total_prs": 82,
+        "merged_prs": 82,
+        "closed_prs": 82,
+        "total_files": 1066,
+        "total_additions": 33374,
+        "total_deletions": 2460,
         "files_by_type": {
-          ".md": 162,
-          ".ts": 810,
-          ".json": 81
+          ".md": 164,
+          ".ts": 820,
+          ".json": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "packages",
-          891
+          902
         ],
         [
           "docs",
-          162
+          164
         ]
       ]
     },
     {
       "username": "YoungPhlo",
       "tag_scores": {
-        "docs": 1489.2009380689015,
-        "docs-writer": 81.0
+        "docs": 1507.586134835184,
+        "docs-writer": 82.0
       },
       "tag_levels": {
         "docs": {
           "level": 18,
-          "progress": 0.016657589367371335,
-          "points": 1489.2009380689015,
+          "progress": 0.04153788949574375,
+          "points": 1507.586134835184,
           "points_next_level": 2215.8378200531006
         },
         "docs-writer": {
           "level": 10,
-          "progress": 0.8440109061965486,
-          "points": 81.0,
+          "progress": 0.8786939660282138,
+          "points": 82.0,
           "points_next_level": 85.49755859375
         }
       },
@@ -849,263 +729,383 @@
         "docs-writer"
       ],
       "stats": {
-        "total_prs": 81,
-        "merged_prs": 81,
-        "closed_prs": 81,
-        "total_files": 243,
-        "total_additions": 16767,
+        "total_prs": 82,
+        "merged_prs": 82,
+        "closed_prs": 82,
+        "total_files": 246,
+        "total_additions": 16974,
         "total_deletions": 0,
         "files_by_type": {
-          ".md": 243
+          ".md": 246
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "docs",
-          243
+          246
         ]
       ]
     },
     {
       "username": "0xCardinalError",
       "tag_scores": {
-        "typescript": 2718.600286192981,
-        "plugin": 3037.0796796978875,
-        "docs": 428.11757972784267,
-        "infra": 583.1999999999998,
-        "architect": 162.0,
-        "feature-dev": 137.70000000000007
+        "typescript": 2752.163252689191,
+        "plugin": 3074.574490558355,
+        "docs": 433.4029819467049,
+        "infra": 590.3999999999999,
+        "architect": 164.0,
+        "feature-dev": 139.40000000000006
       },
       "tag_levels": {
         "typescript": {
           "level": 19,
-          "progress": 0.4535852479527236,
-          "points": 2718.600286192981,
+          "progress": 0.4838652857548627,
+          "points": 2752.163252689191,
           "points_next_level": 3324.256730079651
         },
         "plugin": {
           "level": 19,
-          "progress": 0.7409128915214154,
-          "points": 3037.0796796978875,
+          "progress": 0.774740184182427,
+          "points": 3074.574490558355,
           "points_next_level": 3324.256730079651
         },
         "docs": {
           "level": 14,
-          "progress": 0.9398737170410154,
-          "points": 428.11757972784267,
+          "progress": 0.9760838743528606,
+          "points": 433.4029819467049,
           "points_next_level": 436.8938903808594
         },
         "infra": {
           "level": 15,
-          "progress": 0.668226311592931,
-          "points": 583.1999999999998,
+          "progress": 0.7011109905444359,
+          "points": 590.3999999999999,
           "points_next_level": 655.8408355712891
         },
         "architect": {
           "level": 12,
-          "progress": 0.5125950011384143,
-          "points": 162.0,
+          "progress": 0.54342438765545,
+          "points": 164.0,
           "points_next_level": 193.6195068359375
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.13801795495643093,
-          "points": 137.70000000000007,
+          "progress": 0.16422293349591113,
+          "points": 139.40000000000006,
           "points_next_level": 193.6195068359375
         }
       },
       "tags": [
-        "typescript",
-        "infra",
-        "feature-dev",
-        "docs",
         "plugin",
+        "infra",
+        "typescript",
+        "docs",
+        "feature-dev",
         "architect"
       ],
       "stats": {
-        "total_prs": 81,
-        "merged_prs": 81,
-        "closed_prs": 81,
-        "total_files": 891,
-        "total_additions": 22113,
-        "total_deletions": 162,
+        "total_prs": 82,
+        "merged_prs": 82,
+        "closed_prs": 82,
+        "total_files": 902,
+        "total_additions": 22386,
+        "total_deletions": 164,
         "files_by_type": {
-          ".example": 81,
-          ".json": 243,
-          ".ts": 324,
-          ".md": 81,
-          ".mjs": 81,
-          ".yaml": 81
+          ".example": 82,
+          ".json": 246,
+          ".ts": 328,
+          ".md": 82,
+          ".mjs": 82,
+          ".yaml": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "packages",
-          567
+          574
         ],
         [
           "agent",
-          162
+          164
+        ]
+      ]
+    },
+    {
+      "username": "lalalune",
+      "tag_scores": {
+        "typescript": 410.9794995170422,
+        "docs": 209.07239880353688,
+        "client": 37.07416661916647,
+        "core": 2.0,
+        "plugin": 424.1649311075427,
+        "ai": 86.45699607241448,
+        "blockchain": 67.11553890367853,
+        "test": 34.35116822047268,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 14,
+          "progress": 0.8224611617124089,
+          "points": 410.9794995170422,
+          "points_next_level": 436.8938903808594
+        },
+        "docs": {
+          "level": 13,
+          "progress": 0.1588010597583729,
+          "points": 209.07239880353688,
+          "points_next_level": 290.92926025390625
+        },
+        "client": {
+          "level": 8,
+          "progress": 0.9711893475100186,
+          "points": 37.07416661916647,
+          "points_next_level": 37.443359375
+        },
+        "core": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "plugin": {
+          "level": 14,
+          "progress": 0.9127942210229587,
+          "points": 424.1649311075427,
+          "points_next_level": 436.8938903808594
+        },
+        "ai": {
+          "level": 11,
+          "progress": 0.022184151651508208,
+          "points": 86.45699607241448,
+          "points_next_level": 128.746337890625
+        },
+        "blockchain": {
+          "level": 10,
+          "progress": 0.36245531126240277,
+          "points": 67.11553890367853,
+          "points_next_level": 85.49755859375
+        },
+        "test": {
+          "level": 8,
+          "progress": 0.7586950356473117,
+          "points": 34.35116822047268,
+          "points_next_level": 37.443359375
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "typescript",
+        "core",
+        "test",
+        "blockchain",
+        "ai",
+        "docs",
+        "feature-dev",
+        "client",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 82,
+        "merged_prs": 81,
+        "closed_prs": 81,
+        "total_files": 181,
+        "total_additions": 88,
+        "total_deletions": 4826,
+        "files_by_type": {
+          ".json": 19,
+          ".ts": 59,
+          ".md": 89,
+          ".mjs": 8
+        },
+        "prs_by_month": {
+          "2025-01": 82
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          97
+        ],
+        [
+          "agent",
+          2
+        ],
+        [
+          "docs",
+          1
         ]
       ]
     },
     {
       "username": "Sid31",
       "tag_scores": {
-        "docs": 11105.008927173778,
-        "infra": 934.4891984888764
+        "docs": 11242.107802817898,
+        "infra": 946.0261021739242
       },
       "tag_levels": {
         "docs": {
-          "level": 22,
-          "progress": 0.9687957161217784,
-          "points": 11105.008927173778,
-          "points_next_level": 11221.741464018822
+          "level": 23,
+          "progress": 0.0036294766059385445,
+          "points": 11242.107802817898,
+          "points_next_level": 16833.112196028233
         },
         "infra": {
           "level": 16,
-          "progress": 0.8484501810099311,
-          "points": 934.4891984888764,
+          "progress": 0.8835786415448599,
+          "points": 946.0261021739242,
           "points_next_level": 984.2612533569336
         }
       },
       "tags": [
-        "docs",
-        "infra"
+        "infra",
+        "docs"
       ],
       "stats": {
-        "total_prs": 81,
+        "total_prs": 82,
         "merged_prs": 0,
         "closed_prs": 0,
-        "total_files": 2349,
-        "total_additions": 65043,
-        "total_deletions": 321084,
+        "total_files": 2378,
+        "total_additions": 65846,
+        "total_deletions": 325048,
         "files_by_type": {
-          ".md": 1539,
-          ".png": 81,
-          ".json": 486,
-          ".sh": 81,
-          ".yaml": 81
+          ".md": 1558,
+          ".png": 82,
+          ".json": 492,
+          ".sh": 82,
+          ".yaml": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "characters",
-          486
+          492
         ]
       ]
     },
     {
       "username": "Wilbert957",
       "tag_scores": {
-        "typescript": 8215.945627240511,
-        "blockchain": 4935.829364779669,
-        "docs": 494.79048099903264,
-        "infra": 1698.5924843538269,
-        "architect": 162.0,
-        "feature-dev": 137.70000000000007
+        "typescript": 8317.377054737308,
+        "blockchain": 4996.765529776949,
+        "docs": 500.8990054558108,
+        "infra": 1719.562761938442,
+        "architect": 164.0,
+        "feature-dev": 139.40000000000006
       },
       "tag_levels": {
         "typescript": {
           "level": 22,
-          "progress": 0.1965075967181874,
-          "points": 8215.945627240511,
+          "progress": 0.2236216742781121,
+          "points": 8317.377054737308,
           "points_next_level": 11221.741464018822
         },
         "blockchain": {
-          "level": 20,
-          "progress": 0.9692921572773815,
-          "points": 4935.829364779669,
-          "points_next_level": 4986.885095119476
+          "level": 21,
+          "progress": 0.00396177316399701,
+          "points": 4996.765529776949,
+          "points_next_level": 7480.8276426792145
         },
         "docs": {
           "level": 15,
-          "progress": 0.2644320548424074,
-          "points": 494.79048099903264,
+          "progress": 0.29233161951304154,
+          "points": 500.8990054558108,
           "points_next_level": 655.8408355712891
         },
         "infra": {
           "level": 18,
-          "progress": 0.3000227652825537,
-          "points": 1698.5924843538269,
+          "progress": 0.3284014009160519,
+          "points": 1719.562761938442,
           "points_next_level": 2215.8378200531006
         },
         "architect": {
           "level": 12,
-          "progress": 0.5125950011384143,
-          "points": 162.0,
+          "progress": 0.54342438765545,
+          "points": 164.0,
           "points_next_level": 193.6195068359375
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.13801795495643093,
-          "points": 137.70000000000007,
+          "progress": 0.16422293349591113,
+          "points": 139.40000000000006,
           "points_next_level": 193.6195068359375
         }
       },
       "tags": [
-        "blockchain",
-        "typescript",
         "infra",
-        "feature-dev",
+        "typescript",
+        "blockchain",
         "docs",
+        "feature-dev",
         "architect"
       ],
       "stats": {
-        "total_prs": 81,
+        "total_prs": 82,
         "merged_prs": 0,
-        "closed_prs": 80,
-        "total_files": 1296,
-        "total_additions": 365958,
-        "total_deletions": 203310,
+        "closed_prs": 81,
+        "total_files": 1312,
+        "total_additions": 370476,
+        "total_deletions": 205820,
         "files_by_type": {
-          ".example": 81,
-          ".json": 162,
-          ".ts": 810,
-          ".md": 81,
-          ".yaml": 81
+          ".example": 82,
+          ".json": 164,
+          ".ts": 820,
+          ".md": 82,
+          ".yaml": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "agent",
-          972
+          984
         ],
         [
           "docs",
-          81
+          82
         ]
       ]
     },
     {
       "username": "HiramZednem",
       "tag_scores": {
-        "infra": 231.08753260514482,
-        "typescript": 2369.30195517969
+        "infra": 233.9404651064429,
+        "typescript": 2398.5525966016617
       },
       "tag_levels": {
         "infra": {
           "level": 13,
-          "progress": 0.3850387494897161,
-          "points": 231.08753260514482,
+          "progress": 0.4143568024195602,
+          "points": 233.9404651064429,
           "points_next_level": 290.92926025390625
         },
         "typescript": {
           "level": 19,
-          "progress": 0.13845319106195472,
-          "points": 2369.30195517969,
+          "progress": 0.16484270964322004,
+          "points": 2398.5525966016617,
           "points_next_level": 3324.256730079651
         }
       },
@@ -1114,318 +1114,410 @@
         "typescript"
       ],
       "stats": {
-        "total_prs": 81,
+        "total_prs": 82,
         "merged_prs": 0,
-        "closed_prs": 81,
-        "total_files": 729,
-        "total_additions": 18792,
-        "total_deletions": 324,
+        "closed_prs": 82,
+        "total_files": 738,
+        "total_additions": 19024,
+        "total_deletions": 328,
         "files_by_type": {
-          ".json": 162,
-          ".ts": 324
+          ".json": 164,
+          ".ts": 328
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "agent",
-          405
+          410
         ],
         [
           ".vscode",
-          81
+          82
         ],
         [
           "characters",
-          81
+          82
         ]
       ]
     },
     {
       "username": "leeran7",
       "tag_scores": {
-        "docs": 162.0,
-        "typescript": 873.5636839039211,
-        "feature-dev": 137.70000000000007
+        "docs": 164.0,
+        "typescript": 884.348420742241,
+        "feature-dev": 139.40000000000006
       },
       "tag_levels": {
         "docs": {
           "level": 12,
-          "progress": 0.5125950011384143,
-          "points": 162.0,
+          "progress": 0.54342438765545,
+          "points": 164.0,
           "points_next_level": 193.6195068359375
         },
         "typescript": {
           "level": 16,
-          "progress": 0.6629394414653498,
-          "points": 873.5636839039211,
+          "progress": 0.6957776459565183,
+          "points": 884.348420742241,
           "points_next_level": 984.2612533569336
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.13801795495643093,
-          "points": 137.70000000000007,
+          "progress": 0.16422293349591113,
+          "points": 139.40000000000006,
           "points_next_level": 193.6195068359375
         }
       },
       "tags": [
-        "feature-dev",
         "docs",
-        "typescript"
+        "typescript",
+        "feature-dev"
       ],
       "stats": {
-        "total_prs": 81,
+        "total_prs": 82,
         "merged_prs": 0,
         "closed_prs": 0,
-        "total_files": 162,
-        "total_additions": 7452,
-        "total_deletions": 4536,
+        "total_files": 164,
+        "total_additions": 7544,
+        "total_deletions": 4592,
         "files_by_type": {
-          ".md": 81,
-          ".ts": 81
+          ".md": 82,
+          ".ts": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "agent",
-          81
+          82
         ]
       ]
     },
     {
       "username": "mrparracho",
       "tag_scores": {
-        "typescript": 4293.495192975738,
-        "plugin": 3993.3029198632225,
-        "infra": 896.6331300237827
+        "typescript": 4346.501306469266,
+        "plugin": 4042.6029559109165,
+        "infra": 907.7026748388911
       },
       "tag_levels": {
         "typescript": {
           "level": 20,
-          "progress": 0.5829555679888035,
-          "points": 4293.495192975738,
+          "progress": 0.6148364829353363,
+          "points": 4346.501306469266,
           "points_next_level": 4986.885095119476
         },
         "plugin": {
           "level": 20,
-          "progress": 0.4024027280248799,
-          "points": 3993.3029198632225,
+          "progress": 0.4320545955644507,
+          "points": 4042.6029559109165,
           "points_next_level": 4986.885095119476
         },
         "infra": {
           "level": 16,
-          "progress": 0.7331830830617097,
-          "points": 896.6331300237827,
+          "progress": 0.7668884930046851,
+          "points": 907.7026748388911,
           "points_next_level": 984.2612533569336
         }
       },
       "tags": [
-        "typescript",
         "plugin",
-        "infra"
+        "infra",
+        "typescript"
       ],
       "stats": {
-        "total_prs": 81,
+        "total_prs": 82,
         "merged_prs": 0,
         "closed_prs": 0,
-        "total_files": 1377,
-        "total_additions": 42039,
-        "total_deletions": 405,
+        "total_files": 1394,
+        "total_additions": 42558,
+        "total_deletions": 410,
         "files_by_type": {
-          ".example": 81,
-          ".json": 324,
-          ".ts": 729,
-          ".mjs": 81,
-          ".yaml": 81
+          ".example": 82,
+          ".json": 328,
+          ".ts": 738,
+          ".mjs": 82,
+          ".yaml": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "packages",
-          972
+          984
         ],
         [
           "agent",
-          162
+          164
         ]
       ]
     },
     {
       "username": "pythonberg1997",
       "tag_scores": {
-        "typescript": 14594.864001506376,
-        "plugin": 14133.637563830282,
-        "docs": 579.1295166798801,
-        "blockchain": 6116.459858721328,
-        "test": 1312.8656833465411,
-        "infra": 1799.1907023055426,
-        "architect": 162.0,
-        "feature-dev": 137.70000000000007
+        "typescript": 14775.075502476984,
+        "plugin": 14308.149312293499,
+        "docs": 586.2792637993848,
+        "blockchain": 6191.971708828998,
+        "test": 1329.0739016594614,
+        "infra": 1821.4029331982035,
+        "architect": 164.0,
+        "feature-dev": 139.40000000000006
       },
       "tag_levels": {
         "typescript": {
           "level": 23,
-          "progress": 0.6011227378447781,
-          "points": 14594.864001506376,
+          "progress": 0.6332381530574307,
+          "points": 14775.075502476984,
           "points_next_level": 16833.112196028233
         },
         "plugin": {
           "level": 23,
-          "progress": 0.5189277698585993,
-          "points": 14133.637563830282,
+          "progress": 0.5500274345925182,
+          "points": 14308.149312293499,
           "points_next_level": 16833.112196028233
         },
         "docs": {
           "level": 15,
-          "progress": 0.649635125876321,
-          "points": 579.1295166798801,
+          "progress": 0.6822902840165096,
+          "points": 586.2792637993848,
           "points_next_level": 655.8408355712891
         },
         "blockchain": {
           "level": 21,
-          "progress": 0.4529273397685575,
-          "points": 6116.459858721328,
+          "progress": 0.4832054430799417,
+          "points": 6191.971708828998,
           "points_next_level": 7480.8276426792145
         },
         "test": {
           "level": 17,
-          "progress": 0.667040196435215,
-          "points": 1312.8656833465411,
+          "progress": 0.6999415578917757,
+          "points": 1329.0739016594614,
           "points_next_level": 1476.8918800354004
         },
         "infra": {
           "level": 18,
-          "progress": 0.43616021797537996,
-          "points": 1799.1907023055426,
+          "progress": 0.46621956290138217,
+          "points": 1821.4029331982035,
           "points_next_level": 2215.8378200531006
         },
         "architect": {
           "level": 12,
-          "progress": 0.5125950011384143,
-          "points": 162.0,
+          "progress": 0.54342438765545,
+          "points": 164.0,
           "points_next_level": 193.6195068359375
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.13801795495643093,
-          "points": 137.70000000000007,
+          "progress": 0.16422293349591113,
+          "points": 139.40000000000006,
           "points_next_level": 193.6195068359375
         }
       },
       "tags": [
-        "blockchain",
+        "plugin",
+        "infra",
         "typescript",
         "test",
-        "infra",
-        "feature-dev",
+        "blockchain",
         "docs",
-        "plugin",
+        "feature-dev",
         "architect"
       ],
       "stats": {
-        "total_prs": 81,
+        "total_prs": 82,
         "merged_prs": 0,
         "closed_prs": 0,
-        "total_files": 2106,
-        "total_additions": 738771,
-        "total_deletions": 174312,
+        "total_files": 2132,
+        "total_additions": 747895,
+        "total_deletions": 176464,
         "files_by_type": {
-          ".example": 81,
-          ".json": 243,
-          ".ts": 1296,
-          ".md": 81,
-          ".sol": 243,
-          ".yaml": 81
+          ".example": 82,
+          ".json": 246,
+          ".ts": 1312,
+          ".md": 82,
+          ".sol": 246,
+          ".yaml": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "packages",
-          1701
+          1722
         ],
         [
           "agent",
-          162
+          164
         ]
       ]
     },
     {
       "username": "v1xingyue",
       "tag_scores": {
-        "typescript": 642.2311584058006,
-        "architect": 162.0,
-        "feature-dev": 137.70000000000007
+        "typescript": 650.1592617340939,
+        "architect": 164.0,
+        "feature-dev": 139.40000000000006
       },
       "tag_levels": {
         "typescript": {
           "level": 15,
-          "progress": 0.9378402966360118,
-          "points": 642.2311584058006,
+          "progress": 0.9740504539478566,
+          "points": 650.1592617340939,
           "points_next_level": 655.8408355712891
         },
         "architect": {
           "level": 12,
-          "progress": 0.5125950011384143,
-          "points": 162.0,
+          "progress": 0.54342438765545,
+          "points": 164.0,
           "points_next_level": 193.6195068359375
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.13801795495643093,
-          "points": 137.70000000000007,
+          "progress": 0.16422293349591113,
+          "points": 139.40000000000006,
           "points_next_level": 193.6195068359375
         }
       },
       "tags": [
-        "feature-dev",
         "typescript",
+        "feature-dev",
         "architect"
       ],
       "stats": {
-        "total_prs": 81,
+        "total_prs": 82,
         "merged_prs": 0,
         "closed_prs": 0,
-        "total_files": 81,
-        "total_additions": 2510,
-        "total_deletions": 569,
+        "total_files": 82,
+        "total_additions": 2541,
+        "total_deletions": 576,
         "files_by_type": {
-          ".ts": 81
+          ".ts": 82
         },
         "prs_by_month": {
-          "2025-01": 81
+          "2025-01": 82
         }
       },
       "focus_areas": [
         [
           "agent",
-          81
+          82
         ]
       ]
     },
     {
       "username": "kesar",
       "tag_scores": {
-        "core": 376.15235137175335,
-        "maintainer": 121.5,
-        "bug-fix": 105.29999999999986
+        "core": 380.7962075615281,
+        "maintainer": 123.0,
+        "bug-fix": 106.59999999999985
       },
       "tag_levels": {
         "core": {
           "level": 14,
-          "progress": 0.583861248055259,
-          "points": 376.15235137175335,
+          "progress": 0.6156761897006132,
+          "points": 380.7962075615281,
           "points_next_level": 436.8938903808594
+        },
+        "maintainer": {
+          "level": 11,
+          "progress": 0.8671329460843255,
+          "points": 123.0,
+          "points_next_level": 128.746337890625
+        },
+        "bug-fix": {
+          "level": 11,
+          "progress": 0.4879314919247822,
+          "points": 106.59999999999985,
+          "points_next_level": 128.746337890625
+        }
+      },
+      "tags": [
+        "bug-fix",
+        "core",
+        "maintainer"
+      ],
+      "stats": {
+        "total_prs": 82,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 82,
+        "total_additions": 164,
+        "total_deletions": 164,
+        "files_by_type": {
+          ".json": 82
+        },
+        "prs_by_month": {
+          "2025-01": 82
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          82
+        ]
+      ]
+    },
+    {
+      "username": "dxsullivan",
+      "tag_scores": {
+        "docs": 190.39810378076405
+      },
+      "tag_levels": {
+        "docs": {
+          "level": 12,
+          "progress": 0.9503430600424488,
+          "points": 190.39810378076405,
+          "points_next_level": 193.6195068359375
+        }
+      },
+      "tags": [
+        "docs"
+      ],
+      "stats": {
+        "total_prs": 82,
+        "merged_prs": 0,
+        "closed_prs": 82,
+        "total_files": 82,
+        "total_additions": 164,
+        "total_deletions": 164,
+        "files_by_type": {
+          ".md": 82
+        },
+        "prs_by_month": {
+          "2025-01": 82
+        }
+      },
+      "focus_areas": []
+    },
+    {
+      "username": "CryptoGraffe",
+      "tag_scores": {
+        "client": 921.5729438376201,
+        "typescript": 921.5729438376201,
+        "maintainer": 121.5,
+        "bug-fix": 105.29999999999986
+      },
+      "tag_levels": {
+        "client": {
+          "level": 16,
+          "progress": 0.8091217655041493,
+          "points": 921.5729438376201,
+          "points_next_level": 984.2612533569336
+        },
+        "typescript": {
+          "level": 16,
+          "progress": 0.8091217655041493,
+          "points": 921.5729438376201,
+          "points_next_level": 984.2612533569336
         },
         "maintainer": {
           "level": 11,
@@ -1441,342 +1533,250 @@
         }
       },
       "tags": [
-        "core",
-        "maintainer",
-        "bug-fix"
-      ],
-      "stats": {
-        "total_prs": 81,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 81,
-        "total_additions": 162,
-        "total_deletions": 162,
-        "files_by_type": {
-          ".json": 81
-        },
-        "prs_by_month": {
-          "2025-01": 81
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          81
-        ]
-      ]
-    },
-    {
-      "username": "dxsullivan",
-      "tag_scores": {
-        "docs": 188.07617568587668
-      },
-      "tag_levels": {
-        "docs": {
-          "level": 12,
-          "progress": 0.9145512506914253,
-          "points": 188.07617568587668,
-          "points_next_level": 193.6195068359375
-        }
-      },
-      "tags": [
-        "docs"
-      ],
-      "stats": {
-        "total_prs": 81,
-        "merged_prs": 0,
-        "closed_prs": 81,
-        "total_files": 81,
-        "total_additions": 162,
-        "total_deletions": 162,
-        "files_by_type": {
-          ".md": 81
-        },
-        "prs_by_month": {
-          "2025-01": 81
-        }
-      },
-      "focus_areas": []
-    },
-    {
-      "username": "CryptoGraffe",
-      "tag_scores": {
-        "client": 910.1955000865383,
-        "typescript": 910.1955000865383,
-        "maintainer": 120.0,
-        "bug-fix": 103.99999999999986
-      },
-      "tag_levels": {
-        "client": {
-          "level": 16,
-          "progress": 0.774478840963119,
-          "points": 910.1955000865383,
-          "points_next_level": 984.2612533569336
-        },
-        "typescript": {
-          "level": 16,
-          "progress": 0.774478840963119,
-          "points": 910.1955000865383,
-          "points_next_level": 984.2612533569336
-        },
-        "maintainer": {
-          "level": 11,
-          "progress": 0.797766826420995,
-          "points": 120.0,
-          "points_next_level": 128.746337890625
-        },
-        "bug-fix": {
-          "level": 11,
-          "progress": 0.42781418821656264,
-          "points": 103.99999999999986,
-          "points_next_level": 128.746337890625
-        }
-      },
-      "tags": [
+        "bug-fix",
         "typescript",
         "maintainer",
-        "bug-fix",
         "client"
       ],
       "stats": {
-        "total_prs": 80,
-        "merged_prs": 80,
-        "closed_prs": 80,
-        "total_files": 320,
-        "total_additions": 960,
-        "total_deletions": 160,
+        "total_prs": 81,
+        "merged_prs": 81,
+        "closed_prs": 81,
+        "total_files": 324,
+        "total_additions": 972,
+        "total_deletions": 162,
         "files_by_type": {
-          ".ts": 320
+          ".ts": 324
         },
         "prs_by_month": {
-          "2025-01": 80
+          "2025-01": 81
         }
       },
       "focus_areas": [
         [
           "packages",
-          320
+          324
         ]
       ]
     },
     {
       "username": "justinmoonai",
       "tag_scores": {
-        "plugin": 15259.582614144167,
-        "docs": 580.5910274154122,
-        "typescript": 8895.65740626742,
-        "blockchain": 1267.9700005769264
+        "plugin": 15450.327396820969,
+        "docs": 587.8484152581049,
+        "typescript": 9006.853123845764,
+        "blockchain": 1283.819625584138
       },
       "tag_levels": {
         "plugin": {
           "level": 23,
-          "progress": 0.719581960088994,
-          "points": 15259.582614144167,
+          "progress": 0.7535745069704041,
+          "points": 15450.327396820969,
           "points_next_level": 16833.112196028233
         },
         "docs": {
           "level": 15,
-          "progress": 0.6563103080043975,
-          "points": 580.5910274154122,
+          "progress": 0.6894570953979394,
+          "points": 587.8484152581049,
           "points_next_level": 655.8408355712891
         },
         "typescript": {
           "level": 22,
-          "progress": 0.37820431882645217,
-          "points": 8895.65740626742,
+          "progress": 0.40792853138222923,
+          "points": 9006.853123845764,
           "points_next_level": 11221.741464018822
         },
         "blockchain": {
           "level": 17,
-          "progress": 0.5759056214853763,
-          "points": 1267.9700005769264,
+          "progress": 0.6080790677732711,
+          "points": 1283.819625584138,
           "points_next_level": 1476.8918800354004
         }
       },
       "tags": [
-        "blockchain",
+        "plugin",
         "typescript",
-        "docs",
-        "plugin"
+        "blockchain",
+        "docs"
       ],
       "stats": {
-        "total_prs": 80,
+        "total_prs": 81,
         "merged_prs": 0,
-        "closed_prs": 80,
-        "total_files": 1840,
-        "total_additions": 678880,
+        "closed_prs": 81,
+        "total_files": 1863,
+        "total_additions": 687366,
         "total_deletions": 0,
         "files_by_type": {
-          ".md": 80,
-          ".mjs": 80,
-          ".json": 560,
-          ".cjs": 80,
-          ".ts": 880,
-          ".lock": 80
+          ".md": 81,
+          ".mjs": 81,
+          ".json": 567,
+          ".cjs": 81,
+          ".ts": 891,
+          ".lock": 81
         },
         "prs_by_month": {
-          "2025-01": 80
+          "2025-01": 81
         }
       },
       "focus_areas": [
         [
           "packages",
-          1840
+          1863
         ]
       ]
     },
     {
       "username": "yubing744",
       "tag_scores": {
-        "plugin": 5668.949631827708,
-        "docs": 587.8982523384859,
-        "typescript": 5108.825699243511,
-        "architect": 160.0,
-        "feature-dev": 136.00000000000009
+        "plugin": 5739.811502225554,
+        "docs": 595.246980492717,
+        "typescript": 5172.686020484055,
+        "architect": 162.0,
+        "feature-dev": 137.70000000000007
       },
       "tag_levels": {
         "plugin": {
           "level": 21,
-          "progress": 0.2734884720482495,
-          "points": 5668.949631827708,
+          "progress": 0.3019020658045222,
+          "points": 5739.811502225554,
           "points_next_level": 7480.8276426792145
         },
         "docs": {
           "level": 15,
-          "progress": 0.6896847171185243,
-          "points": 587.8982523384859,
+          "progress": 0.7232486846259926,
+          "points": 595.246980492717,
           "points_next_level": 655.8408355712891
         },
         "typescript": {
           "level": 21,
-          "progress": 0.048894712608095324,
-          "points": 5108.825699243511,
+          "progress": 0.07450088437136627,
+          "points": 5172.686020484055,
           "points_next_level": 7480.8276426792145
         },
         "architect": {
           "level": 12,
-          "progress": 0.48176561462137846,
-          "points": 160.0,
+          "progress": 0.5125950011384143,
+          "points": 162.0,
           "points_next_level": 193.6195068359375
         },
         "feature-dev": {
           "level": 12,
-          "progress": 0.1118129764169507,
-          "points": 136.00000000000009,
+          "progress": 0.13801795495643093,
+          "points": 137.70000000000007,
           "points_next_level": 193.6195068359375
         }
       },
       "tags": [
-        "typescript",
-        "feature-dev",
-        "docs",
         "plugin",
+        "typescript",
+        "docs",
+        "feature-dev",
         "architect"
       ],
       "stats": {
-        "total_prs": 80,
+        "total_prs": 81,
         "merged_prs": 0,
         "closed_prs": 0,
-        "total_files": 1040,
-        "total_additions": 42640,
+        "total_files": 1053,
+        "total_additions": 43173,
         "total_deletions": 0,
         "files_by_type": {
-          ".md": 80,
-          ".mjs": 80,
-          ".json": 160,
-          ".ts": 640
+          ".md": 81,
+          ".mjs": 81,
+          ".json": 162,
+          ".ts": 648
         },
         "prs_by_month": {
-          "2025-01": 80
+          "2025-01": 81
         }
       },
       "focus_areas": [
         [
           "packages",
-          1040
+          1053
         ]
       ]
     },
     {
       "username": "MattPereira",
       "tag_scores": {
-        "typescript": 937.6537429460428,
-        "client": 468.8268714730214,
-        "infra": 228.23460010384673
+        "typescript": 949.3744147328683,
+        "client": 474.68720736643417,
+        "infra": 231.08753260514482
       },
       "tag_levels": {
         "typescript": {
           "level": 16,
-          "progress": 0.8580858317971239,
-          "points": 937.6537429460428,
+          "progress": 0.8937738437235793,
+          "points": 949.3744147328683,
           "points_next_level": 984.2612533569336
         },
         "client": {
           "level": 15,
-          "progress": 0.14584803210836417,
-          "points": 468.8268714730214,
+          "progress": 0.17261404105320563,
+          "points": 474.68720736643417,
           "points_next_level": 655.8408355712891
         },
         "infra": {
           "level": 13,
-          "progress": 0.35572069655987204,
-          "points": 228.23460010384673,
+          "progress": 0.3850387494897161,
+          "points": 231.08753260514482,
           "points_next_level": 290.92926025390625
         }
       },
       "tags": [
-        "typescript",
         "infra",
+        "typescript",
         "client"
       ],
       "stats": {
-        "total_prs": 80,
+        "total_prs": 81,
         "merged_prs": 0,
-        "closed_prs": 80,
-        "total_files": 640,
-        "total_additions": 55040,
-        "total_deletions": 640,
+        "closed_prs": 81,
+        "total_files": 648,
+        "total_additions": 55728,
+        "total_deletions": 648,
         "files_by_type": {
-          ".example": 80,
-          ".json": 320,
-          ".ts": 160,
-          ".yaml": 80
+          ".example": 81,
+          ".json": 324,
+          ".ts": 162,
+          ".yaml": 81
         },
         "prs_by_month": {
-          "2025-01": 80
+          "2025-01": 81
         }
       },
       "focus_areas": [
         [
           "packages",
-          160
+          162
         ],
         [
           ".vscode",
-          80
+          81
         ],
         [
           "agent",
-          80
+          81
         ]
       ]
     },
     {
       "username": "odilitime",
       "tag_scores": {
-        "typescript": 1138.7018818448305,
-        "db": 65.20338378731088,
-        "client": 926.6254079732083,
-        "core": 86.39246215162915,
-        "infra": 357.7324086698617,
-        "architect": 4.0,
-        "test": 78.58724928549049,
-        "api": 76.20770514134824,
-        "ai": 62.718800023076994,
-        "plugin": 675.730453684098,
-        "blockchain": 20.339850002884624,
-        "maintainer": 16.5,
-        "bug-fix": 6.5,
+        "typescript": 1028.0306946556414,
+        "db": 46.700293904826545,
+        "client": 904.553073821861,
+        "core": 50.95111857797805,
+        "infra": 337.7229895396342,
+        "architect": 2.0,
+        "test": 69.85873011252453,
+        "api": 73.6717651401944,
+        "ai": 52.37895002019237,
+        "plugin": 637.9771820209454,
+        "blockchain": 13.169925001442312,
+        "maintainer": 15.0,
+        "bug-fix": 5.2,
         "docs": 196.95177312758034,
         "ui": 458.49886417660286,
         "security": 18.2013246780104
@@ -1784,80 +1784,80 @@
       "tag_levels": {
         "typescript": {
           "level": 17,
-          "progress": 0.3135018817835257,
-          "points": 1138.7018818448305,
+          "progress": 0.0888483966046136,
+          "points": 1028.0306946556414,
           "points_next_level": 1476.8918800354004
         },
         "db": {
-          "level": 10,
-          "progress": 0.29613592095399904,
-          "points": 65.20338378731088,
-          "points_next_level": 85.49755859375
+          "level": 9,
+          "progress": 0.4815882212336728,
+          "points": 46.700293904826545,
+          "points_next_level": 56.6650390625
         },
         "client": {
           "level": 16,
-          "progress": 0.8245059007831134,
-          "points": 926.6254079732083,
+          "progress": 0.7572983431648361,
+          "points": 904.553073821861,
           "points_next_level": 984.2612533569336
         },
         "core": {
-          "level": 11,
-          "progress": 0.020691995760995018,
-          "points": 86.39246215162915,
-          "points_next_level": 128.746337890625
+          "level": 9,
+          "progress": 0.7027356309429215,
+          "points": 50.95111857797805,
+          "points_next_level": 56.6650390625
         },
         "infra": {
           "level": 14,
-          "progress": 0.45766668512675446,
-          "points": 357.7324086698617,
+          "progress": 0.3205826592718319,
+          "points": 337.7229895396342,
           "points_next_level": 436.8938903808594
         },
         "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
         },
         "test": {
           "level": 10,
-          "progress": 0.7603293288063221,
-          "points": 78.58724928549049,
+          "progress": 0.45759757608850665,
+          "points": 69.85873011252453,
           "points_next_level": 85.49755859375
         },
         "api": {
           "level": 10,
-          "progress": 0.6777994568829481,
-          "points": 76.20770514134824,
+          "progress": 0.589845298093416,
+          "points": 73.6717651401944,
           "points_next_level": 85.49755859375
         },
         "ai": {
-          "level": 10,
-          "progress": 0.20996295360229106,
-          "points": 62.718800023076994,
-          "points_next_level": 85.49755859375
+          "level": 9,
+          "progress": 0.7770179759526996,
+          "points": 52.37895002019237,
+          "points_next_level": 56.6650390625
         },
         "plugin": {
-          "level": 16,
-          "progress": 0.060561454269236904,
-          "points": 675.730453684098,
-          "points_next_level": 984.2612533569336
+          "level": 15,
+          "progress": 0.9184110400133388,
+          "points": 637.9771820209454,
+          "points_next_level": 655.8408355712891
         },
         "blockchain": {
-          "level": 7,
-          "progress": 0.4979431187647297,
-          "points": 20.339850002884624,
-          "points_next_level": 24.62890625
+          "level": 6,
+          "progress": 0.4879978054658655,
+          "points": 13.169925001442312,
+          "points_next_level": 16.0859375
         },
         "maintainer": {
-          "level": 7,
-          "progress": 0.04846822130772748,
-          "points": 16.5,
-          "points_next_level": 24.62890625
+          "level": 6,
+          "progress": 0.8093278463648834,
+          "points": 15.0,
+          "points_next_level": 16.0859375
         },
         "bug-fix": {
           "level": 4,
-          "progress": 0.9629629629629629,
-          "points": 6.5,
+          "progress": 0.4493827160493828,
+          "points": 5.2,
           "points_next_level": 6.59375
         },
         "docs": {
@@ -1880,33 +1880,33 @@
         }
       },
       "tags": [
-        "blockchain",
-        "ui",
-        "test",
-        "ai",
-        "infra",
-        "docs",
-        "security",
-        "typescript",
-        "maintainer",
-        "bug-fix",
-        "db",
-        "api",
         "core",
-        "plugin",
+        "ai",
+        "db",
+        "docs",
+        "maintainer",
+        "api",
+        "client",
         "architect",
-        "client"
+        "ui",
+        "infra",
+        "plugin",
+        "bug-fix",
+        "typescript",
+        "test",
+        "blockchain",
+        "security"
       ],
       "stats": {
-        "total_prs": 14,
-        "merged_prs": 10,
-        "closed_prs": 10,
-        "total_files": 591,
-        "total_additions": 44352,
-        "total_deletions": 6907,
+        "total_prs": 12,
+        "merged_prs": 9,
+        "closed_prs": 9,
+        "total_files": 559,
+        "total_additions": 42327,
+        "total_deletions": 6455,
         "files_by_type": {
-          ".ts": 123,
-          ".yaml": 12,
+          ".ts": 92,
+          ".yaml": 11,
           ".json": 293,
           ".example": 3,
           ".yml": 16,
@@ -1923,13 +1923,13 @@
           ".mjs": 5
         },
         "prs_by_month": {
-          "2025-01": 14
+          "2025-01": 12
         }
       },
       "focus_areas": [
         [
           "packages",
-          366
+          335
         ],
         [
           "client",
@@ -1938,137 +1938,6 @@
         [
           ".github",
           16
-        ]
-      ]
-    },
-    {
-      "username": "tcm390",
-      "tag_scores": {
-        "client": 23.944886034949572,
-        "typescript": 873.7613897469638,
-        "core": 207.4728795706525,
-        "plugin": 595.723070249606,
-        "maintainer": 7.5,
-        "bug-fix": 6.5,
-        "ai": 125.80634086008264,
-        "docs": 21.26053425005354,
-        "test": 100.46533075438079,
-        "security": 24.750621994946144,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "client": {
-          "level": 7,
-          "progress": 0.9199317900992641,
-          "points": 23.944886034949572,
-          "points_next_level": 24.62890625
-        },
-        "typescript": {
-          "level": 16,
-          "progress": 0.6635414315741736,
-          "points": 873.7613897469638,
-          "points_next_level": 984.2612533569336
-        },
-        "core": {
-          "level": 13,
-          "progress": 0.1423636608676979,
-          "points": 207.4728795706525,
-          "points_next_level": 290.92926025390625
-        },
-        "plugin": {
-          "level": 15,
-          "progress": 0.7254231372381312,
-          "points": 595.723070249606,
-          "points_next_level": 655.8408355712891
-        },
-        "maintainer": {
-          "level": 5,
-          "progress": 0.23868312757201646,
-          "points": 7.5,
-          "points_next_level": 10.390625
-        },
-        "bug-fix": {
-          "level": 4,
-          "progress": 0.9629629629629629,
-          "points": 6.5,
-          "points_next_level": 6.59375
-        },
-        "ai": {
-          "level": 11,
-          "progress": 0.9320212713898542,
-          "points": 125.80634086008264,
-          "points_next_level": 128.746337890625
-        },
-        "docs": {
-          "level": 7,
-          "progress": 0.6057141143181097,
-          "points": 21.26053425005354,
-          "points_next_level": 24.62890625
-        },
-        "test": {
-          "level": 11,
-          "progress": 0.3460854249292605,
-          "points": 100.46533075438079,
-          "points_next_level": 128.746337890625
-        },
-        "security": {
-          "level": 8,
-          "progress": 0.00949831754495133,
-          "points": 24.750621994946144,
-          "points_next_level": 37.443359375
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "security",
-        "typescript",
-        "maintainer",
-        "ai",
-        "test",
-        "bug-fix",
-        "feature-dev",
-        "docs",
-        "core",
-        "plugin",
-        "architect",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 7,
-        "merged_prs": 6,
-        "closed_prs": 6,
-        "total_files": 103,
-        "total_additions": 15376,
-        "total_deletions": 8013,
-        "files_by_type": {
-          ".ts": 85,
-          ".json": 12,
-          ".md": 2
-        },
-        "prs_by_month": {
-          "2025-01": 7
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          95
-        ],
-        [
-          "agent",
-          4
         ]
       ]
     },
@@ -2121,12 +1990,12 @@
         }
       },
       "tags": [
+        "plugin",
         "typescript",
         "test",
-        "ai",
-        "feature-dev",
         "core",
-        "plugin"
+        "ai",
+        "feature-dev"
       ],
       "stats": {
         "total_prs": 6,
@@ -2151,610 +2020,132 @@
       ]
     },
     {
-      "username": "kwanRoshi",
+      "username": "tcm390",
       "tag_scores": {
-        "docs": 595.9817770759904,
-        "client": 198.5723996565725,
-        "typescript": 262.65663111254844,
-        "plugin": 144.27803515536667,
-        "infra": 65.23134762099228,
-        "architect": 2.0,
-        "feature-dev": 1.7
+        "client": 15.755738606993626,
+        "typescript": 779.6138045115522,
+        "core": 106.90636478676855,
+        "plugin": 587.2962288739718,
+        "maintainer": 4.5,
+        "bug-fix": 3.9000000000000004,
+        "ai": 62.90317043004132,
+        "docs": 21.26053425005354,
+        "test": 100.46533075438079,
+        "security": 24.750621994946144,
+        "architect": 4.0,
+        "feature-dev": 3.4
       },
       "tag_levels": {
-        "docs": {
-          "level": 15,
-          "progress": 0.726604733200383,
-          "points": 595.9817770759904,
-          "points_next_level": 655.8408355712891
-        },
         "client": {
-          "level": 13,
-          "progress": 0.050898215714935816,
-          "points": 198.5723996565725,
-          "points_next_level": 290.92926025390625
+          "level": 6,
+          "progress": 0.9420226909398959,
+          "points": 15.755738606993626,
+          "points_next_level": 16.0859375
         },
         "typescript": {
-          "level": 13,
-          "progress": 0.7094573961160904,
-          "points": 262.65663111254844,
-          "points_next_level": 290.92926025390625
+          "level": 16,
+          "progress": 0.376873550599549,
+          "points": 779.6138045115522,
+          "points_next_level": 984.2612533569336
         },
-        "plugin": {
-          "level": 12,
-          "progress": 0.23941634912015394,
-          "points": 144.27803515536667,
-          "points_next_level": 193.6195068359375
-        },
-        "infra": {
-          "level": 10,
-          "progress": 0.29710579227069367,
-          "points": 65.23134762099228,
-          "points_next_level": 85.49755859375
-        },
-        "architect": {
-          "level": 2,
-          "progress": 0.6666666666666666,
-          "points": 2.0,
-          "points_next_level": 2.375
-        },
-        "feature-dev": {
-          "level": 2,
-          "progress": 0.39999999999999997,
-          "points": 1.7,
-          "points_next_level": 2.375
-        }
-      },
-      "tags": [
-        "typescript",
-        "infra",
-        "feature-dev",
-        "docs",
-        "plugin",
-        "architect",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 5,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 148,
-        "total_additions": 5555,
-        "total_deletions": 12052,
-        "files_by_type": {
-          ".md": 83,
-          ".json": 25,
-          ".example": 5,
-          ".ts": 30,
-          ".yaml": 5
-        },
-        "prs_by_month": {
-          "2025-01": 5
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          45
-        ],
-        [
-          "characters",
-          20
-        ],
-        [
-          "docs",
-          5
-        ]
-      ]
-    },
-    {
-      "username": "tomguluson92",
-      "tag_scores": {
-        "plugin": 99.73387279065741,
-        "docs": 462.6050843594973,
-        "typescript": 172.25483173789854,
-        "architect": 8.0,
-        "feature-dev": 6.8,
-        "infra": 172.0887409438403,
-        "test": 25.511660994337568,
-        "client": 54.55327503423885,
-        "api": 479.6723139671493,
-        "db": 22.38887250245193,
-        "ai": 59.48588853275579,
-        "blockchain": 18.339850002884628
-      },
-      "tag_levels": {
-        "plugin": {
+        "core": {
           "level": 11,
-          "progress": 0.32917262471581665,
-          "points": 99.73387279065741,
+          "progress": 0.49501527074465823,
+          "points": 106.90636478676855,
           "points_next_level": 128.746337890625
         },
-        "docs": {
+        "plugin": {
           "level": 15,
-          "progress": 0.11743116103435723,
-          "points": 462.6050843594973,
+          "progress": 0.6869350854029939,
+          "points": 587.2962288739718,
           "points_next_level": 655.8408355712891
         },
-        "typescript": {
-          "level": 12,
-          "progress": 0.6706700867958341,
-          "points": 172.25483173789854,
-          "points_next_level": 193.6195068359375
-        },
-        "architect": {
-          "level": 5,
-          "progress": 0.37037037037037035,
-          "points": 8.0,
-          "points_next_level": 10.390625
-        },
-        "feature-dev": {
-          "level": 5,
-          "progress": 0.05432098765432094,
-          "points": 6.8,
-          "points_next_level": 10.390625
-        },
-        "infra": {
-          "level": 12,
-          "progress": 0.6681098481523625,
-          "points": 172.0887409438403,
-          "points_next_level": 193.6195068359375
-        },
-        "test": {
-          "level": 8,
-          "progress": 0.06888743013272897,
-          "points": 25.511660994337568,
-          "points_next_level": 37.443359375
-        },
-        "client": {
-          "level": 9,
-          "progress": 0.8901363427861902,
-          "points": 54.55327503423885,
-          "points_next_level": 56.6650390625
-        },
-        "api": {
-          "level": 15,
-          "progress": 0.19538260078980907,
-          "points": 479.6723139671493,
-          "points_next_level": 655.8408355712891
-        },
-        "db": {
-          "level": 7,
-          "progress": 0.7377921173423386,
-          "points": 22.38887250245193,
-          "points_next_level": 24.62890625
-        },
-        "ai": {
-          "level": 10,
-          "progress": 0.09783569095300262,
-          "points": 59.48588853275579,
-          "points_next_level": 85.49755859375
-        },
-        "blockchain": {
-          "level": 7,
-          "progress": 0.2638324649009898,
-          "points": 18.339850002884628,
-          "points_next_level": 24.62890625
-        }
-      },
-      "tags": [
-        "blockchain",
-        "test",
-        "ai",
-        "infra",
-        "feature-dev",
-        "docs",
-        "typescript",
-        "db",
-        "api",
-        "plugin",
-        "architect",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 5,
-        "merged_prs": 0,
-        "closed_prs": 2,
-        "total_files": 217,
-        "total_additions": 4964,
-        "total_deletions": 2028,
-        "files_by_type": {
-          ".md": 144,
-          ".mjs": 2,
-          ".json": 24,
-          ".ts": 10,
-          ".example": 2,
-          ".yml": 14,
-          ".yaml": 4,
-          ".docs": 2,
-          ".js": 2,
-          ".tsx": 6,
-          ".png": 1
-        },
-        "prs_by_month": {
-          "2025-01": 5
-        }
-      },
-      "focus_areas": [
-        [
-          "docs",
-          111
-        ],
-        [
-          "packages",
-          16
-        ],
-        [
-          ".github",
-          14
-        ]
-      ]
-    },
-    {
-      "username": "mameikagou",
-      "tag_scores": {
-        "client": 6.0,
-        "typescript": 9.0,
-        "plugin": 2.4,
-        "maintainer": 3.0,
-        "bug-fix": 2.6
-      },
-      "tag_levels": {
-        "client": {
+        "maintainer": {
           "level": 4,
-          "progress": 0.7654320987654321,
-          "points": 6.0,
+          "progress": 0.1728395061728395,
+          "points": 4.5,
           "points_next_level": 6.59375
         },
-        "typescript": {
-          "level": 5,
-          "progress": 0.6337448559670782,
-          "points": 9.0,
-          "points_next_level": 10.390625
-        },
-        "plugin": {
-          "level": 3,
-          "progress": 0.014814814814814762,
-          "points": 2.4,
-          "points_next_level": 4.0625
-        },
-        "maintainer": {
-          "level": 3,
-          "progress": 0.37037037037037035,
-          "points": 3.0,
-          "points_next_level": 4.0625
-        },
         "bug-fix": {
           "level": 3,
-          "progress": 0.1333333333333334,
-          "points": 2.6,
+          "progress": 0.9037037037037039,
+          "points": 3.9000000000000004,
           "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "maintainer",
-        "bug-fix",
-        "plugin",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 4,
-        "merged_prs": 4,
-        "closed_prs": 4,
-        "total_files": 4,
-        "total_additions": 6,
-        "total_deletions": 2,
-        "files_by_type": {
-          ".ts": 4
-        },
-        "prs_by_month": {
-          "2025-01": 4
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "treppers",
-      "tag_scores": {
-        "core": 26.339850002884624,
-        "typescript": 36.93864886585307,
-        "ai": 26.339850002884624,
-        "maintainer": 3.0,
-        "bug-fix": 2.6
-      },
-      "tag_levels": {
-        "core": {
-          "level": 8,
-          "progress": 0.13351672023730035,
-          "points": 26.339850002884624,
-          "points_next_level": 37.443359375
-        },
-        "typescript": {
-          "level": 8,
-          "progress": 0.9606139642305702,
-          "points": 36.93864886585307,
-          "points_next_level": 37.443359375
         },
         "ai": {
-          "level": 8,
-          "progress": 0.13351672023730035,
-          "points": 26.339850002884624,
-          "points_next_level": 37.443359375
+          "level": 10,
+          "progress": 0.21635748345822325,
+          "points": 62.90317043004132,
+          "points_next_level": 85.49755859375
         },
-        "maintainer": {
-          "level": 3,
-          "progress": 0.37037037037037035,
-          "points": 3.0,
-          "points_next_level": 4.0625
+        "docs": {
+          "level": 7,
+          "progress": 0.6057141143181097,
+          "points": 21.26053425005354,
+          "points_next_level": 24.62890625
         },
-        "bug-fix": {
-          "level": 3,
-          "progress": 0.1333333333333334,
-          "points": 2.6,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "core",
-        "maintainer",
-        "ai",
-        "bug-fix"
-      ],
-      "stats": {
-        "total_prs": 4,
-        "merged_prs": 2,
-        "closed_prs": 4,
-        "total_files": 6,
-        "total_additions": 176,
-        "total_deletions": 120,
-        "files_by_type": {
-          ".ts": 4,
-          ".json": 2
-        },
-        "prs_by_month": {
-          "2025-01": 4
-        }
-      },
-      "focus_areas": [
-        [
-          "agent",
-          4
-        ],
-        [
-          "packages",
-          2
-        ]
-      ]
-    },
-    {
-      "username": "autonome-ai",
-      "tag_scores": {
-        "typescript": 126.54306176910475,
-        "plugin": 138.99244274861744,
-        "infra": 34.971283863598046,
-        "architect": 8.0,
-        "feature-dev": 6.8
-      },
-      "tag_levels": {
-        "typescript": {
+        "test": {
           "level": 11,
-          "progress": 0.9490557616344226,
-          "points": 126.54306176910475,
+          "progress": 0.3460854249292605,
+          "points": 100.46533075438079,
           "points_next_level": 128.746337890625
         },
-        "plugin": {
-          "level": 12,
-          "progress": 0.1579405634805633,
-          "points": 138.99244274861744,
-          "points_next_level": 193.6195068359375
-        },
-        "infra": {
+        "security": {
           "level": 8,
-          "progress": 0.8070869285417162,
-          "points": 34.971283863598046,
+          "progress": 0.00949831754495133,
+          "points": 24.750621994946144,
           "points_next_level": 37.443359375
         },
         "architect": {
-          "level": 5,
-          "progress": 0.37037037037037035,
-          "points": 8.0,
-          "points_next_level": 10.390625
+          "level": 3,
+          "progress": 0.9629629629629629,
+          "points": 4.0,
+          "points_next_level": 4.0625
         },
         "feature-dev": {
-          "level": 5,
-          "progress": 0.05432098765432094,
-          "points": 6.8,
-          "points_next_level": 10.390625
+          "level": 3,
+          "progress": 0.6074074074074074,
+          "points": 3.4,
+          "points_next_level": 4.0625
         }
       },
       "tags": [
-        "typescript",
-        "infra",
-        "feature-dev",
         "plugin",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "core",
+        "test",
+        "security",
+        "ai",
+        "docs",
+        "maintainer",
+        "client",
         "architect"
       ],
       "stats": {
-        "total_prs": 4,
-        "merged_prs": 2,
+        "total_prs": 5,
+        "merged_prs": 4,
         "closed_prs": 4,
-        "total_files": 44,
-        "total_additions": 1164,
-        "total_deletions": 2,
+        "total_files": 94,
+        "total_additions": 15165,
+        "total_deletions": 4062,
         "files_by_type": {
-          ".example": 4,
+          ".ts": 76,
           ".json": 12,
-          ".ts": 16,
-          ".mjs": 4,
-          ".yaml": 4
+          ".md": 2
         },
         "prs_by_month": {
-          "2025-01": 4
+          "2025-01": 5
         }
       },
       "focus_areas": [
         [
           "packages",
-          28
+          86
         ],
         [
           "agent",
-          8
-        ]
-      ]
-    },
-    {
-      "username": "web3gh",
-      "tag_scores": {
-        "core": 44.021449551883634,
-        "typescript": 85.45300127539674,
-        "ai": 13.28771237954945,
-        "plugin": 45.88868634846445,
-        "docs": 11.109177703355275,
-        "db": 17.252410189703074
-      },
-      "tag_levels": {
-        "core": {
-          "level": 9,
-          "progress": 0.3422224427744166,
-          "points": 44.021449551883634,
-          "points_next_level": 56.6650390625
-        },
-        "typescript": {
-          "level": 10,
-          "progress": 0.9984546158616154,
-          "points": 85.45300127539674,
-          "points_next_level": 85.49755859375
-        },
-        "ai": {
-          "level": 6,
-          "progress": 0.5086792655450338,
-          "points": 13.28771237954945,
-          "points_next_level": 16.0859375
-        },
-        "plugin": {
-          "level": 9,
-          "progress": 0.4393646710779654,
-          "points": 45.88868634846445,
-          "points_next_level": 56.6650390625
-        },
-        "docs": {
-          "level": 6,
-          "progress": 0.12616563241354625,
-          "points": 11.109177703355275,
-          "points_next_level": 16.0859375
-        },
-        "db": {
-          "level": 7,
-          "progress": 0.13654184205029124,
-          "points": 17.252410189703074,
-          "points_next_level": 24.62890625
-        }
-      },
-      "tags": [
-        "typescript",
-        "ai",
-        "db",
-        "docs",
-        "core",
-        "plugin"
-      ],
-      "stats": {
-        "total_prs": 4,
-        "merged_prs": 3,
-        "closed_prs": 3,
-        "total_files": 14,
-        "total_additions": 1073,
-        "total_deletions": 692,
-        "files_by_type": {
-          ".ts": 11,
-          ".md": 2,
-          ".sql": 1
-        },
-        "prs_by_month": {
-          "2025-01": 4
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          14
-        ]
-      ]
-    },
-    {
-      "username": "rferrari",
-      "tag_scores": {
-        "client": 4.754887502163469,
-        "typescript": 4.754887502163469,
-        "maintainer": 6.0,
-        "bug-fix": 5.2,
-        "plugin": 2.4
-      },
-      "tag_levels": {
-        "client": {
-          "level": 4,
-          "progress": 0.27353580332383964,
-          "points": 4.754887502163469,
-          "points_next_level": 6.59375
-        },
-        "typescript": {
-          "level": 4,
-          "progress": 0.27353580332383964,
-          "points": 4.754887502163469,
-          "points_next_level": 6.59375
-        },
-        "maintainer": {
-          "level": 4,
-          "progress": 0.7654320987654321,
-          "points": 6.0,
-          "points_next_level": 6.59375
-        },
-        "bug-fix": {
-          "level": 4,
-          "progress": 0.4493827160493828,
-          "points": 5.2,
-          "points_next_level": 6.59375
-        },
-        "plugin": {
-          "level": 3,
-          "progress": 0.014814814814814762,
-          "points": 2.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "maintainer",
-        "plugin",
-        "bug-fix",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 4,
-        "merged_prs": 4,
-        "closed_prs": 4,
-        "total_files": 4,
-        "total_additions": 4,
-        "total_deletions": 2,
-        "files_by_type": {
-          ".ts": 2,
-          ".json": 2
-        },
-        "prs_by_month": {
-          "2025-01": 4
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
           4
         ]
       ]
@@ -2780,8 +2171,8 @@
         }
       },
       "tags": [
-        "typescript",
-        "client"
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -2805,63 +2196,72 @@
       ]
     },
     {
-      "username": "sin-bufan",
+      "username": "web3gh",
       "tag_scores": {
-        "typescript": 90.91986447140613,
-        "client": 81.91986447140613,
-        "architect": 4.0,
-        "maintainer": 1.5,
-        "bug-fix": 1.3
+        "core": 37.37759336210891,
+        "typescript": 60.12156344279188,
+        "ai": 6.643856189774725,
+        "plugin": 22.944343174232223,
+        "docs": 5.554588851677638,
+        "db": 17.252410189703074
       },
       "tag_levels": {
-        "typescript": {
-          "level": 11,
-          "progress": 0.1253747727868917,
-          "points": 90.91986447140613,
-          "points_next_level": 128.746337890625
+        "core": {
+          "level": 8,
+          "progress": 0.9948678252400186,
+          "points": 37.37759336210891,
+          "points_next_level": 37.443359375
         },
-        "client": {
+        "typescript": {
           "level": 10,
-          "progress": 0.8759146206953505,
-          "points": 81.91986447140613,
+          "progress": 0.11988284189127289,
+          "points": 60.12156344279188,
           "points_next_level": 85.49755859375
         },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
+        "ai": {
+          "level": 5,
+          "progress": 0.013196691957129284,
+          "points": 6.643856189774725,
+          "points_next_level": 10.390625
         },
-        "maintainer": {
-          "level": 2,
-          "progress": 0.2222222222222222,
-          "points": 1.5,
-          "points_next_level": 2.375
+        "plugin": {
+          "level": 7,
+          "progress": 0.8028129184286461,
+          "points": 22.944343174232223,
+          "points_next_level": 24.62890625
         },
-        "bug-fix": {
-          "level": 2,
-          "progress": 0.04444444444444448,
-          "points": 1.3,
-          "points_next_level": 2.375
+        "docs": {
+          "level": 4,
+          "progress": 0.5894672006627704,
+          "points": 5.554588851677638,
+          "points_next_level": 6.59375
+        },
+        "db": {
+          "level": 7,
+          "progress": 0.13654184205029124,
+          "points": 17.252410189703074,
+          "points_next_level": 24.62890625
         }
       },
       "tags": [
+        "plugin",
         "typescript",
-        "maintainer",
-        "bug-fix",
-        "architect",
-        "client"
+        "core",
+        "ai",
+        "db",
+        "docs"
       ],
       "stats": {
         "total_prs": 3,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 15,
-        "total_additions": 913,
-        "total_deletions": 442,
+        "merged_prs": 2,
+        "closed_prs": 2,
+        "total_files": 9,
+        "total_additions": 762,
+        "total_deletions": 456,
         "files_by_type": {
-          ".example": 2,
-          ".ts": 13
+          ".ts": 7,
+          ".md": 1,
+          ".sql": 1
         },
         "prs_by_month": {
           "2025-01": 3
@@ -2870,11 +2270,317 @@
       "focus_areas": [
         [
           "packages",
-          11
+          9
+        ]
+      ]
+    },
+    {
+      "username": "rferrari",
+      "tag_scores": {
+        "client": 2.3774437510817346,
+        "typescript": 2.3774437510817346,
+        "maintainer": 4.5,
+        "bug-fix": 3.9000000000000004,
+        "plugin": 2.4
+      },
+      "tag_levels": {
+        "client": {
+          "level": 3,
+          "progress": 0.0014481487891760342,
+          "points": 2.3774437510817346,
+          "points_next_level": 4.0625
+        },
+        "typescript": {
+          "level": 3,
+          "progress": 0.0014481487891760342,
+          "points": 2.3774437510817346,
+          "points_next_level": 4.0625
+        },
+        "maintainer": {
+          "level": 4,
+          "progress": 0.1728395061728395,
+          "points": 4.5,
+          "points_next_level": 6.59375
+        },
+        "bug-fix": {
+          "level": 3,
+          "progress": 0.9037037037037039,
+          "points": 3.9000000000000004,
+          "points_next_level": 4.0625
+        },
+        "plugin": {
+          "level": 3,
+          "progress": 0.014814814814814762,
+          "points": 2.4,
+          "points_next_level": 4.0625
+        }
+      },
+      "tags": [
+        "plugin",
+        "bug-fix",
+        "typescript",
+        "maintainer",
+        "client"
+      ],
+      "stats": {
+        "total_prs": 3,
+        "merged_prs": 3,
+        "closed_prs": 3,
+        "total_files": 3,
+        "total_additions": 3,
+        "total_deletions": 1,
+        "files_by_type": {
+          ".ts": 1,
+          ".json": 2
+        },
+        "prs_by_month": {
+          "2025-01": 3
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          3
+        ]
+      ]
+    },
+    {
+      "username": "kwanRoshi",
+      "tag_scores": {
+        "docs": 307.71149946387493,
+        "client": 119.1434397939435,
+        "typescript": 157.59397866752906,
+        "plugin": 86.56682109322,
+        "infra": 39.138808572595366,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "docs": {
+          "level": 14,
+          "progress": 0.1149746976056616,
+          "points": 307.71149946387493,
+          "points_next_level": 436.8938903808594
+        },
+        "client": {
+          "level": 11,
+          "progress": 0.7779614071702743,
+          "points": 119.1434397939435,
+          "points_next_level": 128.746337890625
+        },
+        "typescript": {
+          "level": 12,
+          "progress": 0.44467753380788844,
+          "points": 157.59397866752906,
+          "points_next_level": 193.6195068359375
+        },
+        "plugin": {
+          "level": 11,
+          "progress": 0.024723530163249272,
+          "points": 86.56682109322,
+          "points_next_level": 128.746337890625
+        },
+        "infra": {
+          "level": 9,
+          "progress": 0.08820504894262331,
+          "points": 39.138808572595366,
+          "points_next_level": 56.6650390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "docs",
+        "feature-dev",
+        "client",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 3,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 82,
+        "total_additions": 3333,
+        "total_deletions": 6202,
+        "files_by_type": {
+          ".md": 43,
+          ".json": 15,
+          ".example": 3,
+          ".ts": 18,
+          ".yaml": 3
+        },
+        "prs_by_month": {
+          "2025-01": 3
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          27
         ],
         [
-          "agent",
-          2
+          "characters",
+          12
+        ],
+        [
+          "docs",
+          3
+        ]
+      ]
+    },
+    {
+      "username": "tomguluson92",
+      "tag_scores": {
+        "plugin": 49.86693639532871,
+        "docs": 231.30254217974866,
+        "typescript": 86.12741586894927,
+        "architect": 4.0,
+        "feature-dev": 3.4,
+        "infra": 86.04437047192015,
+        "test": 12.755830497168784,
+        "client": 27.276637517119426,
+        "api": 239.83615698357465,
+        "db": 11.194436251225966,
+        "ai": 29.742944266377894,
+        "blockchain": 9.169925001442314
+      },
+      "tag_levels": {
+        "plugin": {
+          "level": 9,
+          "progress": 0.6463314976790426,
+          "points": 49.86693639532871,
+          "points_next_level": 56.6650390625
+        },
+        "docs": {
+          "level": 13,
+          "progress": 0.3872482872498245,
+          "points": 231.30254217974866,
+          "points_next_level": 290.92926025390625
+        },
+        "typescript": {
+          "level": 11,
+          "progress": 0.01456358504076396,
+          "points": 86.12741586894927,
+          "points_next_level": 128.746337890625
+        },
+        "architect": {
+          "level": 3,
+          "progress": 0.9629629629629629,
+          "points": 4.0,
+          "points_next_level": 4.0625
+        },
+        "feature-dev": {
+          "level": 3,
+          "progress": 0.6074074074074074,
+          "points": 3.4,
+          "points_next_level": 4.0625
+        },
+        "infra": {
+          "level": 11,
+          "progress": 0.012643406058160282,
+          "points": 86.04437047192015,
+          "points_next_level": 128.746337890625
+        },
+        "test": {
+          "level": 6,
+          "progress": 0.41528985409822267,
+          "points": 12.755830497168784,
+          "points_next_level": 16.0859375
+        },
+        "client": {
+          "level": 8,
+          "progress": 0.2066206994002661,
+          "points": 27.276637517119426,
+          "points_next_level": 37.443359375
+        },
+        "api": {
+          "level": 13,
+          "progress": 0.47494365697470786,
+          "points": 239.83615698357465,
+          "points_next_level": 290.92926025390625
+        },
+        "db": {
+          "level": 6,
+          "progress": 0.14113558320565656,
+          "points": 11.194436251225966,
+          "points_next_level": 16.0859375
+        },
+        "ai": {
+          "level": 8,
+          "progress": 0.39908359463275134,
+          "points": 29.742944266377894,
+          "points_next_level": 37.443359375
+        },
+        "blockchain": {
+          "level": 5,
+          "progress": 0.6784987658119674,
+          "points": 9.169925001442314,
+          "points_next_level": 10.390625
+        }
+      },
+      "tags": [
+        "ai",
+        "db",
+        "docs",
+        "feature-dev",
+        "api",
+        "client",
+        "architect",
+        "plugin",
+        "infra",
+        "typescript",
+        "test",
+        "blockchain"
+      ],
+      "stats": {
+        "total_prs": 3,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "total_files": 109,
+        "total_additions": 2482,
+        "total_deletions": 1014,
+        "files_by_type": {
+          ".md": 72,
+          ".mjs": 1,
+          ".json": 12,
+          ".ts": 5,
+          ".example": 1,
+          ".yml": 7,
+          ".yaml": 2,
+          ".docs": 1,
+          ".js": 1,
+          ".tsx": 3,
+          ".png": 1
+        },
+        "prs_by_month": {
+          "2025-01": 3
+        }
+      },
+      "focus_areas": [
+        [
+          "docs",
+          56
+        ],
+        [
+          "packages",
+          8
+        ],
+        [
+          ".github",
+          7
         ]
       ]
     },
@@ -2913,12 +2619,12 @@
         }
       },
       "tags": [
+        "bug-fix",
         "typescript",
         "core",
         "maintainer",
-        "ai",
-        "bug-fix",
-        "api"
+        "api",
+        "ai"
       ],
       "stats": {
         "total_prs": 2,
@@ -2975,101 +2681,62 @@
       "focus_areas": []
     },
     {
-      "username": "AIFlowML",
+      "username": "mameikagou",
       "tag_scores": {
-        "typescript": 459.18569757293585,
-        "plugin": 439.30841749865465,
-        "test": 25.49912279734977,
-        "docs": 14.132178380915544,
-        "api": 28.699733738224666,
-        "blockchain": 27.12543885409864,
-        "infra": 18.314866228501224,
-        "architect": 4.0,
-        "feature-dev": 3.4
+        "client": 3.0,
+        "typescript": 4.5,
+        "plugin": 1.2,
+        "maintainer": 1.5,
+        "bug-fix": 1.3
       },
       "tag_levels": {
+        "client": {
+          "level": 3,
+          "progress": 0.37037037037037035,
+          "points": 3.0,
+          "points_next_level": 4.0625
+        },
         "typescript": {
-          "level": 15,
-          "progress": 0.10181373927226121,
-          "points": 459.18569757293585,
-          "points_next_level": 655.8408355712891
+          "level": 4,
+          "progress": 0.1728395061728395,
+          "points": 4.5,
+          "points_next_level": 6.59375
         },
         "plugin": {
-          "level": 15,
-          "progress": 0.011027909595611084,
-          "points": 439.30841749865465,
-          "points_next_level": 655.8408355712891
+          "level": 1,
+          "progress": 0.9333333333333332,
+          "points": 1.2,
+          "points_next_level": 1.25
         },
-        "test": {
-          "level": 8,
-          "progress": 0.06790898830103373,
-          "points": 25.49912279734977,
-          "points_next_level": 37.443359375
+        "maintainer": {
+          "level": 2,
+          "progress": 0.2222222222222222,
+          "points": 1.5,
+          "points_next_level": 2.375
         },
-        "docs": {
-          "level": 6,
-          "progress": 0.6569531313541697,
-          "points": 14.132178380915544,
-          "points_next_level": 16.0859375
-        },
-        "api": {
-          "level": 8,
-          "progress": 0.31767469501158796,
-          "points": 28.699733738224666,
-          "points_next_level": 37.443359375
-        },
-        "blockchain": {
-          "level": 8,
-          "progress": 0.19482162677922626,
-          "points": 27.12543885409864,
-          "points_next_level": 37.443359375
-        },
-        "infra": {
-          "level": 7,
-          "progress": 0.26090798102254836,
-          "points": 18.314866228501224,
-          "points_next_level": 24.62890625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
+        "bug-fix": {
+          "level": 2,
+          "progress": 0.04444444444444448,
+          "points": 1.3,
+          "points_next_level": 2.375
         }
       },
       "tags": [
-        "blockchain",
-        "typescript",
-        "test",
-        "infra",
-        "api",
-        "feature-dev",
-        "docs",
         "plugin",
-        "architect"
+        "bug-fix",
+        "typescript",
+        "maintainer",
+        "client"
       ],
       "stats": {
         "total_prs": 2,
         "merged_prs": 2,
         "closed_prs": 2,
-        "total_files": 62,
-        "total_additions": 12898,
-        "total_deletions": 0,
+        "total_files": 2,
+        "total_additions": 3,
+        "total_deletions": 1,
         "files_by_type": {
-          ".example": 2,
-          ".json": 6,
-          ".ts": 40,
-          ".js": 4,
-          ".jpg": 2,
-          ".mjs": 2,
-          ".md": 2,
-          ".yml": 2
+          ".ts": 2
         },
         "prs_by_month": {
           "2025-01": 2
@@ -3078,71 +2745,68 @@
       "focus_areas": [
         [
           "packages",
-          56
-        ],
-        [
-          "agent",
-          4
+          2
         ]
       ]
     },
     {
-      "username": "tsubasakong",
+      "username": "treppers",
       "tag_scores": {
-        "core": 32.11162398627954,
-        "typescript": 24.083717989709655,
-        "ai": 32.11162398627954,
-        "architect": 4.0,
-        "feature-dev": 3.4
+        "core": 13.169925001442312,
+        "typescript": 18.469324432926534,
+        "ai": 13.169925001442312,
+        "maintainer": 1.5,
+        "bug-fix": 1.3
       },
       "tag_levels": {
         "core": {
-          "level": 8,
-          "progress": 0.5839279806394032,
-          "points": 32.11162398627954,
-          "points_next_level": 37.443359375
+          "level": 6,
+          "progress": 0.4879978054658655,
+          "points": 13.169925001442312,
+          "points_next_level": 16.0859375
         },
         "typescript": {
           "level": 7,
-          "progress": 0.9361828099522961,
-          "points": 24.083717989709655,
+          "progress": 0.2789881366388627,
+          "points": 18.469324432926534,
           "points_next_level": 24.62890625
         },
         "ai": {
-          "level": 8,
-          "progress": 0.5839279806394032,
-          "points": 32.11162398627954,
-          "points_next_level": 37.443359375
+          "level": 6,
+          "progress": 0.4879978054658655,
+          "points": 13.169925001442312,
+          "points_next_level": 16.0859375
         },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
+        "maintainer": {
+          "level": 2,
+          "progress": 0.2222222222222222,
+          "points": 1.5,
+          "points_next_level": 2.375
         },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
+        "bug-fix": {
+          "level": 2,
+          "progress": 0.04444444444444448,
+          "points": 1.3,
+          "points_next_level": 2.375
         }
       },
       "tags": [
+        "bug-fix",
         "typescript",
-        "ai",
-        "feature-dev",
         "core",
-        "architect"
+        "maintainer",
+        "ai"
       ],
       "stats": {
         "total_prs": 2,
-        "merged_prs": 2,
+        "merged_prs": 1,
         "closed_prs": 2,
-        "total_files": 4,
-        "total_additions": 62,
-        "total_deletions": 10,
+        "total_files": 3,
+        "total_additions": 88,
+        "total_deletions": 60,
         "files_by_type": {
-          ".ts": 4
+          ".ts": 2,
+          ".json": 1
         },
         "prs_by_month": {
           "2025-01": 2
@@ -3150,38 +2814,42 @@
       },
       "focus_areas": [
         [
+          "agent",
+          2
+        ],
+        [
           "packages",
-          4
+          1
         ]
       ]
     },
     {
-      "username": "pranjallyad",
+      "username": "autonome-ai",
       "tag_scores": {
-        "typescript": 82.7482593345793,
-        "plugin": 88.53497835365661,
-        "docs": 13.28771237954945,
+        "typescript": 63.27153088455238,
+        "plugin": 69.49622137430872,
+        "infra": 17.485641931799023,
         "architect": 4.0,
         "feature-dev": 3.4
       },
       "tag_levels": {
         "typescript": {
           "level": 10,
-          "progress": 0.9046458892990298,
-          "points": 82.7482593345793,
+          "progress": 0.2291333511416496,
+          "points": 63.27153088455238,
           "points_next_level": 85.49755859375
         },
         "plugin": {
-          "level": 11,
-          "progress": 0.07023134084448217,
-          "points": 88.53497835365661,
-          "points_next_level": 128.746337890625
+          "level": 10,
+          "progress": 0.4450246638314663,
+          "points": 69.49622137430872,
+          "points_next_level": 85.49755859375
         },
-        "docs": {
-          "level": 6,
-          "progress": 0.5086792655450338,
-          "points": 13.28771237954945,
-          "points_next_level": 16.0859375
+        "infra": {
+          "level": 7,
+          "progress": 0.16384285987222216,
+          "points": 17.485641931799023,
+          "points_next_level": 24.62890625
         },
         "architect": {
           "level": 3,
@@ -3197,24 +2865,25 @@
         }
       },
       "tags": [
+        "plugin",
+        "infra",
         "typescript",
         "feature-dev",
-        "docs",
-        "plugin",
         "architect"
       ],
       "stats": {
         "total_prs": 2,
-        "merged_prs": 2,
+        "merged_prs": 1,
         "closed_prs": 2,
-        "total_files": 20,
-        "total_additions": 1028,
-        "total_deletions": 0,
+        "total_files": 22,
+        "total_additions": 582,
+        "total_deletions": 1,
         "files_by_type": {
           ".example": 2,
           ".json": 6,
-          ".ts": 10,
-          ".md": 2
+          ".ts": 8,
+          ".mjs": 2,
+          ".yaml": 2
         },
         "prs_by_month": {
           "2025-01": 2
@@ -3280,12 +2949,12 @@
         }
       },
       "tags": [
-        "typescript",
-        "infra",
-        "api",
-        "feature-dev",
-        "docs",
         "plugin",
+        "infra",
+        "typescript",
+        "docs",
+        "feature-dev",
+        "api",
         "architect"
       ],
       "stats": {
@@ -3385,10 +3054,10 @@
         }
       },
       "tags": [
-        "blockchain",
+        "bug-fix",
         "typescript",
         "maintainer",
-        "bug-fix"
+        "blockchain"
       ],
       "stats": {
         "total_prs": 2,
@@ -3408,60 +3077,6 @@
         [
           "agent",
           2
-        ]
-      ]
-    },
-    {
-      "username": "maciejwitowski",
-      "tag_scores": {
-        "docs": 17.95455984699983,
-        "ai": 25.56926969111504,
-        "docs-writer": 2.0
-      },
-      "tag_levels": {
-        "docs": {
-          "level": 7,
-          "progress": 0.2187321997402638,
-          "points": 17.95455984699983,
-          "points_next_level": 24.62890625
-        },
-        "ai": {
-          "level": 8,
-          "progress": 0.0733830333563329,
-          "points": 25.56926969111504,
-          "points_next_level": 37.443359375
-        },
-        "docs-writer": {
-          "level": 2,
-          "progress": 0.6666666666666666,
-          "points": 2.0,
-          "points_next_level": 2.375
-        }
-      },
-      "tags": [
-        "docs",
-        "ai",
-        "docs-writer"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 2,
-        "closed_prs": 2,
-        "total_files": 4,
-        "total_additions": 176,
-        "total_deletions": 0,
-        "files_by_type": {
-          ".md": 2,
-          ".js": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "docs",
-          4
         ]
       ]
     },
@@ -3507,11 +3122,11 @@
         }
       },
       "tags": [
-        "typescript",
-        "maintainer",
-        "ai",
         "bug-fix",
-        "core"
+        "typescript",
+        "core",
+        "ai",
+        "maintainer"
       ],
       "stats": {
         "total_prs": 2,
@@ -3535,46 +3150,63 @@
       ]
     },
     {
-      "username": "prasadabhishek",
+      "username": "sin-bufan",
       "tag_scores": {
-        "docs": 9.908392620773752,
-        "maintainer": 3.0,
-        "bug-fix": 2.6
+        "typescript": 47.95137830686859,
+        "client": 43.45137830686859,
+        "architect": 2.0,
+        "maintainer": 1.5,
+        "bug-fix": 1.3
       },
       "tag_levels": {
-        "docs": {
-          "level": 5,
-          "progress": 0.8729922951832103,
-          "points": 9.908392620773752,
-          "points_next_level": 10.390625
+        "typescript": {
+          "level": 9,
+          "progress": 0.5466753739894039,
+          "points": 47.95137830686859,
+          "points_next_level": 56.6650390625
+        },
+        "client": {
+          "level": 9,
+          "progress": 0.3125647201256636,
+          "points": 43.45137830686859,
+          "points_next_level": 56.6650390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
         },
         "maintainer": {
-          "level": 3,
-          "progress": 0.37037037037037035,
-          "points": 3.0,
-          "points_next_level": 4.0625
+          "level": 2,
+          "progress": 0.2222222222222222,
+          "points": 1.5,
+          "points_next_level": 2.375
         },
         "bug-fix": {
-          "level": 3,
-          "progress": 0.1333333333333334,
-          "points": 2.6,
-          "points_next_level": 4.0625
+          "level": 2,
+          "progress": 0.04444444444444448,
+          "points": 1.3,
+          "points_next_level": 2.375
         }
       },
       "tags": [
-        "docs",
+        "bug-fix",
+        "typescript",
         "maintainer",
-        "bug-fix"
+        "client",
+        "architect"
       ],
       "stats": {
         "total_prs": 2,
-        "merged_prs": 2,
-        "closed_prs": 2,
-        "total_files": 2,
-        "total_additions": 30,
-        "total_deletions": 30,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 8,
+        "total_additions": 460,
+        "total_deletions": 222,
         "files_by_type": {
-          ".md": 2
+          ".example": 1,
+          ".ts": 7
         },
         "prs_by_month": {
           "2025-01": 2
@@ -3582,48 +3214,14 @@
       },
       "focus_areas": [
         [
-          "docs",
-          2
+          "packages",
+          6
+        ],
+        [
+          "agent",
+          1
         ]
       ]
-    },
-    {
-      "username": "KumbleMadhu",
-      "tag_scores": {
-        "maintainer": 3.0,
-        "bug-fix": 2.6
-      },
-      "tag_levels": {
-        "maintainer": {
-          "level": 3,
-          "progress": 0.37037037037037035,
-          "points": 3.0,
-          "points_next_level": 4.0625
-        },
-        "bug-fix": {
-          "level": 3,
-          "progress": 0.1333333333333334,
-          "points": 2.6,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "maintainer",
-        "bug-fix"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 2,
-        "total_files": 0,
-        "total_additions": 0,
-        "total_deletions": 0,
-        "files_by_type": {},
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": []
     },
     {
       "username": "0xnogo",
@@ -3732,13 +3330,13 @@
         }
       },
       "tags": [
-        "security",
-        "typescript",
-        "test",
         "infra",
-        "docs",
+        "plugin",
+        "typescript",
         "core",
-        "plugin"
+        "test",
+        "security",
+        "docs"
       ],
       "stats": {
         "total_prs": 2,
@@ -3772,1101 +3370,6 @@
         [
           "characters",
           2
-        ]
-      ]
-    },
-    {
-      "username": "btspoony",
-      "tag_scores": {
-        "typescript": 330.02318620519713,
-        "plugin": 299.95197740111774,
-        "docs": 14.258566033889933,
-        "test": 32.33545000955675,
-        "infra": 22.065418861001884,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 14,
-          "progress": 0.26783150080460477,
-          "points": 330.02318620519713,
-          "points_next_level": 436.8938903808594
-        },
-        "plugin": {
-          "level": 14,
-          "progress": 0.06181440763672653,
-          "points": 299.95197740111774,
-          "points_next_level": 436.8938903808594
-        },
-        "docs": {
-          "level": 6,
-          "progress": 0.6791446534127729,
-          "points": 14.258566033889933,
-          "points_next_level": 16.0859375
-        },
-        "test": {
-          "level": 8,
-          "progress": 0.6013946661931194,
-          "points": 32.33545000955675,
-          "points_next_level": 37.443359375
-        },
-        "infra": {
-          "level": 7,
-          "progress": 0.6999301455950994,
-          "points": 22.065418861001884,
-          "points_next_level": 24.62890625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "test",
-        "infra",
-        "feature-dev",
-        "docs",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 60,
-        "total_additions": 2990,
-        "total_deletions": 0,
-        "files_by_type": {
-          ".json": 8,
-          ".ts": 44,
-          ".md": 2,
-          ".mjs": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          54
-        ],
-        [
-          "agent",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "brauliolomeli",
-      "tag_scores": {
-        "typescript": 45.51399958750536,
-        "docs": 2.0,
-        "core": 54.34548278045586,
-        "ai": 44.005632777571236,
-        "infra": 37.748985511326865,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 9,
-          "progress": 0.41987174605525013,
-          "points": 45.51399958750536,
-          "points_next_level": 56.6650390625
-        },
-        "docs": {
-          "level": 2,
-          "progress": 0.6666666666666666,
-          "points": 2.0,
-          "points_next_level": 2.375
-        },
-        "core": {
-          "level": 9,
-          "progress": 0.8793260360304223,
-          "points": 54.34548278045586,
-          "points_next_level": 56.6650390625
-        },
-        "ai": {
-          "level": 9,
-          "progress": 0.3413995815796853,
-          "points": 44.005632777571236,
-          "points_next_level": 56.6650390625
-        },
-        "infra": {
-          "level": 9,
-          "progress": 0.01590007435851798,
-          "points": 37.748985511326865,
-          "points_next_level": 56.6650390625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "ai",
-        "infra",
-        "feature-dev",
-        "docs",
-        "core",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 16,
-        "total_additions": 2846,
-        "total_deletions": 228,
-        "files_by_type": {
-          ".example": 2,
-          ".ts": 8,
-          ".md": 2,
-          ".json": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          8
-        ],
-        [
-          "agent",
-          2
-        ],
-        [
-          "docs",
-          2
-        ]
-      ]
-    },
-    {
-      "username": "calintje",
-      "tag_scores": {
-        "typescript": 233.49995690141398,
-        "core": 6.339850002884625,
-        "plugin": 215.3641148583138,
-        "ai": 6.339850002884625,
-        "docs": 13.169925001442312,
-        "blockchain": 25.56926969111504,
-        "infra": 45.07069051023557,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 13,
-          "progress": 0.4098299365139728,
-          "points": 233.49995690141398,
-          "points_next_level": 290.92926025390625
-        },
-        "core": {
-          "level": 4,
-          "progress": 0.8996938283000988,
-          "points": 6.339850002884625,
-          "points_next_level": 6.59375
-        },
-        "plugin": {
-          "level": 13,
-          "progress": 0.22345764179442512,
-          "points": 215.3641148583138,
-          "points_next_level": 290.92926025390625
-        },
-        "ai": {
-          "level": 4,
-          "progress": 0.8996938283000988,
-          "points": 6.339850002884625,
-          "points_next_level": 6.59375
-        },
-        "docs": {
-          "level": 6,
-          "progress": 0.4879978054658655,
-          "points": 13.169925001442312,
-          "points_next_level": 16.0859375
-        },
-        "blockchain": {
-          "level": 8,
-          "progress": 0.0733830333563329,
-          "points": 25.56926969111504,
-          "points_next_level": 37.443359375
-        },
-        "infra": {
-          "level": 9,
-          "progress": 0.3968087731789476,
-          "points": 45.07069051023557,
-          "points_next_level": 56.6650390625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "blockchain",
-        "typescript",
-        "ai",
-        "infra",
-        "feature-dev",
-        "docs",
-        "core",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 44,
-        "total_additions": 8804,
-        "total_deletions": 5488,
-        "files_by_type": {
-          ".json": 14,
-          ".ts": 26,
-          ".md": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          36
-        ],
-        [
-          "agent",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "renlulu",
-      "tag_scores": {
-        "typescript": 63.28400378687038,
-        "plugin": 69.50619969616312,
-        "infra": 17.664806144190667,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 10,
-          "progress": 0.22956594955901938,
-          "points": 63.28400378687038,
-          "points_next_level": 85.49755859375
-        },
-        "plugin": {
-          "level": 10,
-          "progress": 0.44537074256536224,
-          "points": 69.50619969616312,
-          "points_next_level": 85.49755859375
-        },
-        "infra": {
-          "level": 7,
-          "progress": 0.18481498532821708,
-          "points": 17.664806144190667,
-          "points_next_level": 24.62890625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "infra",
-        "feature-dev",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 2,
-        "total_files": 22,
-        "total_additions": 584,
-        "total_deletions": 2,
-        "files_by_type": {
-          ".example": 2,
-          ".json": 6,
-          ".ts": 8,
-          ".mjs": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          14
-        ],
-        [
-          "agent",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "indowebdeveloper",
-      "tag_scores": {
-        "typescript": 81.59798855434387,
-        "client": 11.422064766172811,
-        "core": 48.78394919211404,
-        "ai": 26.094247824228052,
-        "plugin": 20.86436869799838,
-        "infra": 43.67121217130385,
-        "maintainer": 3.0,
-        "bug-fix": 2.6
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 10,
-          "progress": 0.8647509790055081,
-          "points": 81.59798855434387,
-          "points_next_level": 85.49755859375
-        },
-        "client": {
-          "level": 6,
-          "progress": 0.18110327855983516,
-          "points": 11.422064766172811,
-          "points_next_level": 16.0859375
-        },
-        "core": {
-          "level": 9,
-          "progress": 0.5899895327300093,
-          "points": 48.78394919211404,
-          "points_next_level": 56.6650390625
-        },
-        "ai": {
-          "level": 8,
-          "progress": 0.1143506913587506,
-          "points": 26.094247824228052,
-          "points_next_level": 37.443359375
-        },
-        "plugin": {
-          "level": 7,
-          "progress": 0.5593408261031483,
-          "points": 20.86436869799838,
-          "points_next_level": 24.62890625
-        },
-        "infra": {
-          "level": 9,
-          "progress": 0.32400148673551504,
-          "points": 43.67121217130385,
-          "points_next_level": 56.6650390625
-        },
-        "maintainer": {
-          "level": 3,
-          "progress": 0.37037037037037035,
-          "points": 3.0,
-          "points_next_level": 4.0625
-        },
-        "bug-fix": {
-          "level": 3,
-          "progress": 0.1333333333333334,
-          "points": 2.6,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "maintainer",
-        "ai",
-        "infra",
-        "bug-fix",
-        "core",
-        "plugin",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 18,
-        "total_additions": 4578,
-        "total_deletions": 4916,
-        "files_by_type": {
-          ".ts": 10,
-          ".json": 4,
-          ".csv": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          12
-        ],
-        [
-          "agent",
-          2
-        ]
-      ]
-    },
-    {
-      "username": "okmoontx",
-      "tag_scores": {
-        "typescript": 86.35074418115057,
-        "plugin": 89.03876568234347,
-        "docs": 15.8017336159615,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 11,
-          "progress": 0.01972739118355237,
-          "points": 86.35074418115057,
-          "points_next_level": 128.746337890625
-        },
-        "plugin": {
-          "level": 11,
-          "progress": 0.08187993155333616,
-          "points": 89.03876568234347,
-          "points_next_level": 128.746337890625
-        },
-        "docs": {
-          "level": 6,
-          "progress": 0.950098632157849,
-          "points": 15.8017336159615,
-          "points_next_level": 16.0859375
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "feature-dev",
-        "docs",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 22,
-        "total_additions": 534,
-        "total_deletions": 540,
-        "files_by_type": {
-          ".ts": 12,
-          ".json": 6,
-          ".MD": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          16
-        ],
-        [
-          "agent",
-          2
-        ]
-      ]
-    },
-    {
-      "username": "taofengno1",
-      "tag_scores": {
-        "client": 4.754887502163469,
-        "typescript": 9.509775004326938,
-        "core": 6.339850002884625,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "client": {
-          "level": 4,
-          "progress": 0.27353580332383964,
-          "points": 4.754887502163469,
-          "points_next_level": 6.59375
-        },
-        "typescript": {
-          "level": 5,
-          "progress": 0.768006585501745,
-          "points": 9.509775004326938,
-          "points_next_level": 10.390625
-        },
-        "core": {
-          "level": 4,
-          "progress": 0.8996938283000988,
-          "points": 6.339850002884625,
-          "points_next_level": 6.59375
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "feature-dev",
-        "core",
-        "architect",
-        "client"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 2,
-        "total_files": 4,
-        "total_additions": 4,
-        "total_deletions": 4,
-        "files_by_type": {
-          ".ts": 4
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "xiangxiecrypto",
-      "tag_scores": {
-        "typescript": 172.86309847836844,
-        "core": 6.339850002884625,
-        "plugin": 161.7197526781454,
-        "docs": 15.330671834370353,
-        "blockchain": 19.816785241547503,
-        "infra": 21.350654415226394,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 12,
-          "progress": 0.6800463320195361,
-          "points": 172.86309847836844,
-          "points_next_level": 193.6195068359375
-        },
-        "core": {
-          "level": 4,
-          "progress": 0.8996938283000988,
-          "points": 6.339850002884625,
-          "points_next_level": 6.59375
-        },
-        "plugin": {
-          "level": 12,
-          "progress": 0.5082750746355044,
-          "points": 161.7197526781454,
-          "points_next_level": 193.6195068359375
-        },
-        "docs": {
-          "level": 6,
-          "progress": 0.8673881958839578,
-          "points": 15.330671834370353,
-          "points_next_level": 16.0859375
-        },
-        "blockchain": {
-          "level": 7,
-          "progress": 0.43671560211987237,
-          "points": 19.816785241547503,
-          "points_next_level": 24.62890625
-        },
-        "infra": {
-          "level": 7,
-          "progress": 0.6162631597155724,
-          "points": 21.350654415226394,
-          "points_next_level": 24.62890625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "blockchain",
-        "typescript",
-        "infra",
-        "feature-dev",
-        "docs",
-        "core",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 34,
-        "total_additions": 1888,
-        "total_deletions": 24,
-        "files_by_type": {
-          ".json": 6,
-          ".ts": 22,
-          ".md": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          28
-        ],
-        [
-          "agent",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "FiberInEliza",
-      "tag_scores": {
-        "typescript": 380.43993426094227,
-        "plugin": 400.99692517169564,
-        "docs": 33.095777244247046,
-        "test": 20.398274132455377,
-        "infra": 32.846836722585074,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 14,
-          "progress": 0.6132353703029554,
-          "points": 380.43993426094227,
-          "points_next_level": 436.8938903808594
-        },
-        "plugin": {
-          "level": 14,
-          "progress": 0.7540707966173569,
-          "points": 400.99692517169564,
-          "points_next_level": 436.8938903808594
-        },
-        "docs": {
-          "level": 8,
-          "progress": 0.6607282348810376,
-          "points": 33.095777244247046,
-          "points_next_level": 37.443359375
-        },
-        "test": {
-          "level": 7,
-          "progress": 0.5047819743523441,
-          "points": 20.398274132455377,
-          "points_next_level": 24.62890625
-        },
-        "infra": {
-          "level": 8,
-          "progress": 0.6413016921145493,
-          "points": 32.846836722585074,
-          "points_next_level": 37.443359375
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "test",
-        "infra",
-        "feature-dev",
-        "docs",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 70,
-        "total_additions": 9050,
-        "total_deletions": 152,
-        "files_by_type": {
-          ".example": 4,
-          ".json": 12,
-          ".ts": 40,
-          ".md": 4,
-          ".mjs": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          58
-        ],
-        [
-          "agent",
-          4
-        ],
-        [
-          "characters",
-          2
-        ]
-      ]
-    },
-    {
-      "username": "0xalank",
-      "tag_scores": {
-        "typescript": 82.56295581164747,
-        "plugin": 88.68345077331526,
-        "docs": 14.45763738099176,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 10,
-          "progress": 0.8982189961261667,
-          "points": 82.56295581164747,
-          "points_next_level": 85.49755859375
-        },
-        "plugin": {
-          "level": 11,
-          "progress": 0.07366432605406412,
-          "points": 88.68345077331526,
-          "points_next_level": 128.746337890625
-        },
-        "docs": {
-          "level": 6,
-          "progress": 0.7140981958394312,
-          "points": 14.45763738099176,
-          "points_next_level": 16.0859375
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "feature-dev",
-        "docs",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 20,
-        "total_additions": 932,
-        "total_deletions": 0,
-        "files_by_type": {
-          ".example": 2,
-          ".json": 6,
-          ".ts": 10,
-          ".md": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          14
-        ],
-        [
-          "agent",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "zo-eth",
-      "tag_scores": {
-        "typescript": 88.76782103174685,
-        "plugin": 90.15430582456018,
-        "docs": 9.715961990255146,
-        "infra": 43.81848823925875,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "typescript": {
-          "level": 11,
-          "progress": 0.07561513853486139,
-          "points": 88.76782103174685,
-          "points_next_level": 128.746337890625
-        },
-        "plugin": {
-          "level": 11,
-          "progress": 0.10767349521808729,
-          "points": 90.15430582456018,
-          "points_next_level": 128.746337890625
-        },
-        "docs": {
-          "level": 5,
-          "progress": 0.8223109768573222,
-          "points": 9.715961990255146,
-          "points_next_level": 10.390625
-        },
-        "infra": {
-          "level": 9,
-          "progress": 0.3316634637504932,
-          "points": 43.81848823925875,
-          "points_next_level": 56.6650390625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "blockchain",
-        "typescript",
-        "infra",
-        "feature-dev",
-        "docs",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 24,
-        "total_additions": 5118,
-        "total_deletions": 4866,
-        "files_by_type": {
-          ".json": 6,
-          ".ts": 10,
-          ".md": 2,
-          ".mjs": 2,
-          ".yaml": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          18
-        ],
-        [
-          "agent",
-          4
-        ]
-      ]
-    },
-    {
-      "username": "rRogick",
-      "tag_scores": {
-        "docs": 15.169925001442312,
-        "docs-writer": 2.0
-      },
-      "tag_levels": {
-        "docs": {
-          "level": 6,
-          "progress": 0.8391637862614759,
-          "points": 15.169925001442312,
-          "points_next_level": 16.0859375
-        },
-        "docs-writer": {
-          "level": 2,
-          "progress": 0.6666666666666666,
-          "points": 2.0,
-          "points_next_level": 2.375
-        }
-      },
-      "tags": [
-        "docs",
-        "docs-writer"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 2,
-        "total_additions": 382,
-        "total_deletions": 0,
-        "files_by_type": {
-          ".md": 2
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "docs",
-          2
-        ]
-      ]
-    },
-    {
-      "username": "pann0x",
-      "tag_scores": {
-        "plugin": 105.08704107222142,
-        "docs": 7.6147098441152075,
-        "typescript": 106.7597843057677,
-        "architect": 4.0,
-        "feature-dev": 3.4
-      },
-      "tag_levels": {
-        "plugin": {
-          "level": 11,
-          "progress": 0.45294879524812137,
-          "points": 105.08704107222142,
-          "points_next_level": 128.746337890625
-        },
-        "docs": {
-          "level": 5,
-          "progress": 0.26889477375873777,
-          "points": 7.6147098441152075,
-          "points_next_level": 10.390625
-        },
-        "typescript": {
-          "level": 11,
-          "progress": 0.491626031016187,
-          "points": 106.7597843057677,
-          "points_next_level": 128.746337890625
-        },
-        "architect": {
-          "level": 3,
-          "progress": 0.9629629629629629,
-          "points": 4.0,
-          "points_next_level": 4.0625
-        },
-        "feature-dev": {
-          "level": 3,
-          "progress": 0.6074074074074074,
-          "points": 3.4,
-          "points_next_level": 4.0625
-        }
-      },
-      "tags": [
-        "typescript",
-        "feature-dev",
-        "docs",
-        "plugin",
-        "architect"
-      ],
-      "stats": {
-        "total_prs": 2,
-        "merged_prs": 0,
-        "closed_prs": 0,
-        "total_files": 18,
-        "total_additions": 638,
-        "total_deletions": 0,
-        "files_by_type": {
-          ".md": 2,
-          ".json": 4,
-          ".ts": 12
-        },
-        "prs_by_month": {
-          "2025-01": 2
-        }
-      },
-      "focus_areas": [
-        [
-          "packages",
-          18
         ]
       ]
     },
@@ -4905,10 +3408,10 @@
         }
       },
       "tags": [
+        "core",
         "db",
-        "api",
         "docs",
-        "core"
+        "api"
       ],
       "stats": {
         "total_prs": 2,
@@ -4928,6 +3431,187 @@
         [
           "docs",
           12
+        ]
+      ]
+    },
+    {
+      "username": "AIFlowML",
+      "tag_scores": {
+        "typescript": 229.59284878646793,
+        "plugin": 219.65420874932732,
+        "test": 12.749561398674885,
+        "docs": 7.066089190457772,
+        "api": 14.349866869112333,
+        "blockchain": 13.56271942704932,
+        "infra": 9.157433114250612,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 13,
+          "progress": 0.3696786877674665,
+          "points": 229.59284878646793,
+          "points_next_level": 290.92926025390625
+        },
+        "plugin": {
+          "level": 13,
+          "progress": 0.2675446293812351,
+          "points": 219.65420874932732,
+          "points_next_level": 290.92926025390625
+        },
+        "test": {
+          "level": 6,
+          "progress": 0.41418910703756556,
+          "points": 12.749561398674885,
+          "points_next_level": 16.0859375
+        },
+        "docs": {
+          "level": 5,
+          "progress": 0.12440209131398113,
+          "points": 7.066089190457772,
+          "points_next_level": 10.390625
+        },
+        "api": {
+          "level": 6,
+          "progress": 0.6951755270869391,
+          "points": 14.349866869112333,
+          "points_next_level": 16.0859375
+        },
+        "blockchain": {
+          "level": 6,
+          "progress": 0.5569658253255322,
+          "points": 13.56271942704932,
+          "points_next_level": 16.0859375
+        },
+        "infra": {
+          "level": 5,
+          "progress": 0.6752087214487208,
+          "points": 9.157433114250612,
+          "points_next_level": 10.390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "test",
+        "blockchain",
+        "docs",
+        "feature-dev",
+        "api",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 1,
+        "closed_prs": 1,
+        "total_files": 31,
+        "total_additions": 6449,
+        "total_deletions": 0,
+        "files_by_type": {
+          ".example": 1,
+          ".json": 3,
+          ".ts": 20,
+          ".js": 2,
+          ".jpg": 1,
+          ".mjs": 1,
+          ".md": 1,
+          ".yml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          28
+        ],
+        [
+          "agent",
+          2
+        ]
+      ]
+    },
+    {
+      "username": "tsubasakong",
+      "tag_scores": {
+        "core": 16.05581199313977,
+        "typescript": 12.041858994854827,
+        "ai": 16.05581199313977,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "core": {
+          "level": 6,
+          "progress": 0.9947104734182312,
+          "points": 16.05581199313977,
+          "points_next_level": 16.0859375
+        },
+        "typescript": {
+          "level": 6,
+          "progress": 0.2899286026631247,
+          "points": 12.041858994854827,
+          "points_next_level": 16.0859375
+        },
+        "ai": {
+          "level": 6,
+          "progress": 0.9947104734182312,
+          "points": 16.05581199313977,
+          "points_next_level": 16.0859375
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "typescript",
+        "core",
+        "ai",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 1,
+        "closed_prs": 1,
+        "total_files": 2,
+        "total_additions": 31,
+        "total_deletions": 5,
+        "files_by_type": {
+          ".ts": 2
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          2
         ]
       ]
     },
@@ -4973,11 +3657,11 @@
         }
       },
       "tags": [
-        "typescript",
-        "ui",
-        "maintainer",
         "bug-fix",
-        "client"
+        "typescript",
+        "maintainer",
+        "client",
+        "ui"
       ],
       "stats": {
         "total_prs": 1,
@@ -5058,6 +3742,82 @@
       ]
     },
     {
+      "username": "pranjallyad",
+      "tag_scores": {
+        "typescript": 41.37412966728965,
+        "plugin": 44.267489176828306,
+        "docs": 6.643856189774725,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 9,
+          "progress": 0.20449671184802126,
+          "points": 41.37412966728965,
+          "points_next_level": 56.6650390625
+        },
+        "plugin": {
+          "level": 9,
+          "progress": 0.35502255332379135,
+          "points": 44.267489176828306,
+          "points_next_level": 56.6650390625
+        },
+        "docs": {
+          "level": 5,
+          "progress": 0.013196691957129284,
+          "points": 6.643856189774725,
+          "points_next_level": 10.390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "typescript",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 1,
+        "closed_prs": 1,
+        "total_files": 10,
+        "total_additions": 514,
+        "total_deletions": 0,
+        "files_by_type": {
+          ".example": 1,
+          ".json": 3,
+          ".ts": 5,
+          ".md": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          7
+        ],
+        [
+          "agent",
+          2
+        ]
+      ]
+    },
+    {
       "username": "monilpat",
       "tag_scores": {
         "infra": 4.179470570797252,
@@ -5078,8 +3838,8 @@
         }
       },
       "tags": [
-        "maintainer",
-        "infra"
+        "infra",
+        "maintainer"
       ],
       "stats": {
         "total_prs": 1,
@@ -5099,6 +3859,60 @@
         [
           ".github",
           1
+        ]
+      ]
+    },
+    {
+      "username": "maciejwitowski",
+      "tag_scores": {
+        "docs": 8.977279923499916,
+        "ai": 12.78463484555752,
+        "docs-writer": 1.0
+      },
+      "tag_levels": {
+        "docs": {
+          "level": 5,
+          "progress": 0.6277609675061507,
+          "points": 8.977279923499916,
+          "points_next_level": 10.390625
+        },
+        "ai": {
+          "level": 6,
+          "progress": 0.42034740772477713,
+          "points": 12.78463484555752,
+          "points_next_level": 16.0859375
+        },
+        "docs-writer": {
+          "level": 1,
+          "progress": 0.6666666666666666,
+          "points": 1.0,
+          "points_next_level": 1.25
+        }
+      },
+      "tags": [
+        "docs",
+        "docs-writer",
+        "ai"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 1,
+        "closed_prs": 1,
+        "total_files": 2,
+        "total_additions": 88,
+        "total_deletions": 0,
+        "files_by_type": {
+          ".md": 1,
+          ".js": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "docs",
+          2
         ]
       ]
     },
@@ -5151,12 +3965,12 @@
         }
       },
       "tags": [
-        "blockchain",
-        "typescript",
-        "ui",
-        "maintainer",
+        "plugin",
         "bug-fix",
-        "plugin"
+        "typescript",
+        "blockchain",
+        "maintainer",
+        "ui"
       ],
       "stats": {
         "total_prs": 1,
@@ -5175,6 +3989,59 @@
       "focus_areas": [
         [
           "packages",
+          1
+        ]
+      ]
+    },
+    {
+      "username": "prasadabhishek",
+      "tag_scores": {
+        "docs": 4.954196310386876,
+        "maintainer": 1.5,
+        "bug-fix": 1.3
+      },
+      "tag_levels": {
+        "docs": {
+          "level": 4,
+          "progress": 0.3522750855849386,
+          "points": 4.954196310386876,
+          "points_next_level": 6.59375
+        },
+        "maintainer": {
+          "level": 2,
+          "progress": 0.2222222222222222,
+          "points": 1.5,
+          "points_next_level": 2.375
+        },
+        "bug-fix": {
+          "level": 2,
+          "progress": 0.04444444444444448,
+          "points": 1.3,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "bug-fix",
+        "docs",
+        "maintainer"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 1,
+        "closed_prs": 1,
+        "total_files": 1,
+        "total_additions": 15,
+        "total_deletions": 15,
+        "files_by_type": {
+          ".md": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "docs",
           1
         ]
       ]
@@ -5254,10 +4121,10 @@
         }
       },
       "tags": [
-        "typescript",
-        "maintainer",
+        "db",
         "bug-fix",
-        "db"
+        "typescript",
+        "maintainer"
       ],
       "stats": {
         "total_prs": 1,
@@ -5430,12 +4297,12 @@
         }
       },
       "tags": [
-        "typescript",
-        "ai",
-        "infra",
-        "docs",
-        "core",
         "plugin",
+        "infra",
+        "typescript",
+        "core",
+        "ai",
+        "docs",
         "architect"
       ],
       "stats": {
@@ -5465,6 +4332,44 @@
           1
         ]
       ]
+    },
+    {
+      "username": "KumbleMadhu",
+      "tag_scores": {
+        "maintainer": 1.5,
+        "bug-fix": 1.3
+      },
+      "tag_levels": {
+        "maintainer": {
+          "level": 2,
+          "progress": 0.2222222222222222,
+          "points": 1.5,
+          "points_next_level": 2.375
+        },
+        "bug-fix": {
+          "level": 2,
+          "progress": 0.04444444444444448,
+          "points": 1.3,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "maintainer",
+        "bug-fix"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "total_files": 0,
+        "total_additions": 0,
+        "total_deletions": 0,
+        "files_by_type": {},
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": []
     },
     {
       "username": "moon-taky",
@@ -5501,10 +4406,10 @@
         }
       },
       "tags": [
-        "blockchain",
+        "plugin",
         "typescript",
-        "docs",
-        "plugin"
+        "blockchain",
+        "docs"
       ],
       "stats": {
         "total_prs": 1,
@@ -5529,6 +4434,99 @@
         [
           "packages",
           23
+        ]
+      ]
+    },
+    {
+      "username": "btspoony",
+      "tag_scores": {
+        "typescript": 165.01159310259857,
+        "plugin": 149.97598870055887,
+        "docs": 7.129283016944966,
+        "test": 16.167725004778376,
+        "infra": 11.032709430500942,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 12,
+          "progress": 0.5590177850344393,
+          "points": 165.01159310259857,
+          "points_next_level": 193.6195068359375
+        },
+        "plugin": {
+          "level": 12,
+          "progress": 0.3272485552205763,
+          "points": 149.97598870055887,
+          "points_next_level": 193.6195068359375
+        },
+        "docs": {
+          "level": 5,
+          "progress": 0.14104573285793354,
+          "points": 7.129283016944966,
+          "points_next_level": 10.390625
+        },
+        "test": {
+          "level": 7,
+          "progress": 0.009573663110774674,
+          "points": 16.167725004778376,
+          "points_next_level": 24.62890625
+        },
+        "infra": {
+          "level": 6,
+          "progress": 0.11273910439522715,
+          "points": 11.032709430500942,
+          "points_next_level": 16.0859375
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "test",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 30,
+        "total_additions": 1495,
+        "total_deletions": 0,
+        "files_by_type": {
+          ".json": 4,
+          ".ts": 22,
+          ".md": 1,
+          ".mjs": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          27
+        ],
+        [
+          "agent",
+          2
         ]
       ]
     },
@@ -5567,9 +4565,9 @@
         }
       },
       "tags": [
+        "bug-fix",
         "typescript",
         "maintainer",
-        "bug-fix",
         "client"
       ],
       "stats": {
@@ -5590,6 +4588,806 @@
         [
           "packages",
           1
+        ]
+      ]
+    },
+    {
+      "username": "brauliolomeli",
+      "tag_scores": {
+        "typescript": 22.75699979375268,
+        "docs": 1.0,
+        "core": 27.17274139022793,
+        "ai": 22.002816388785618,
+        "infra": 18.874492755663432,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 7,
+          "progress": 0.7808833777780915,
+          "points": 22.75699979375268,
+          "points_next_level": 24.62890625
+        },
+        "docs": {
+          "level": 1,
+          "progress": 0.6666666666666666,
+          "points": 1.0,
+          "points_next_level": 1.25
+        },
+        "core": {
+          "level": 8,
+          "progress": 0.19851296933344006,
+          "points": 27.17274139022793,
+          "points_next_level": 37.443359375
+        },
+        "ai": {
+          "level": 7,
+          "progress": 0.692602192743081,
+          "points": 22.002816388785618,
+          "points_next_level": 24.62890625
+        },
+        "infra": {
+          "level": 7,
+          "progress": 0.3264152471192678,
+          "points": 18.874492755663432,
+          "points_next_level": 24.62890625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "infra",
+        "typescript",
+        "core",
+        "ai",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 8,
+        "total_additions": 1423,
+        "total_deletions": 114,
+        "files_by_type": {
+          ".example": 1,
+          ".ts": 4,
+          ".md": 1,
+          ".json": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          4
+        ],
+        [
+          "agent",
+          1
+        ],
+        [
+          "docs",
+          1
+        ]
+      ]
+    },
+    {
+      "username": "calintje",
+      "tag_scores": {
+        "typescript": 116.74997845070699,
+        "core": 3.1699250014423126,
+        "plugin": 107.6820574291569,
+        "ai": 3.1699250014423126,
+        "docs": 6.584962500721156,
+        "blockchain": 12.78463484555752,
+        "infra": 22.535345255117786,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 11,
+          "progress": 0.7226196985221078,
+          "points": 116.74997845070699,
+          "points_next_level": 128.746337890625
+        },
+        "core": {
+          "level": 3,
+          "progress": 0.47106666752137044,
+          "points": 3.1699250014423126,
+          "points_next_level": 4.0625
+        },
+        "plugin": {
+          "level": 11,
+          "progress": 0.5129508669626167,
+          "points": 107.6820574291569,
+          "points_next_level": 128.746337890625
+        },
+        "ai": {
+          "level": 3,
+          "progress": 0.47106666752137044,
+          "points": 3.1699250014423126,
+          "points_next_level": 4.0625
+        },
+        "docs": {
+          "level": 4,
+          "progress": 0.9965283953466295,
+          "points": 6.584962500721156,
+          "points_next_level": 6.59375
+        },
+        "blockchain": {
+          "level": 6,
+          "progress": 0.42034740772477713,
+          "points": 12.78463484555752,
+          "points_next_level": 16.0859375
+        },
+        "infra": {
+          "level": 7,
+          "progress": 0.7549375332922511,
+          "points": 22.535345255117786,
+          "points_next_level": 24.62890625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "core",
+        "blockchain",
+        "ai",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 22,
+        "total_additions": 4402,
+        "total_deletions": 2744,
+        "files_by_type": {
+          ".json": 7,
+          ".ts": 13,
+          ".md": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          18
+        ],
+        [
+          "agent",
+          2
+        ]
+      ]
+    },
+    {
+      "username": "renlulu",
+      "tag_scores": {
+        "typescript": 31.64200189343519,
+        "plugin": 34.75309984808156,
+        "infra": 8.832403072095333,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 8,
+          "progress": 0.5472801355645202,
+          "points": 31.64200189343519,
+          "points_next_level": 37.443359375
+        },
+        "plugin": {
+          "level": 8,
+          "progress": 0.7900605276966559,
+          "points": 34.75309984808156,
+          "points_next_level": 37.443359375
+        },
+        "infra": {
+          "level": 5,
+          "progress": 0.5896041012925981,
+          "points": 8.832403072095333,
+          "points_next_level": 10.390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "total_files": 11,
+        "total_additions": 292,
+        "total_deletions": 1,
+        "files_by_type": {
+          ".example": 1,
+          ".json": 3,
+          ".ts": 4,
+          ".mjs": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          7
+        ],
+        [
+          "agent",
+          2
+        ]
+      ]
+    },
+    {
+      "username": "indowebdeveloper",
+      "tag_scores": {
+        "typescript": 40.798994277171936,
+        "client": 5.711032383086406,
+        "core": 24.39197459605702,
+        "ai": 13.047123912114026,
+        "plugin": 10.43218434899919,
+        "infra": 21.835606085651925,
+        "maintainer": 1.5,
+        "bug-fix": 1.3
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 9,
+          "progress": 0.17457552912788,
+          "points": 40.798994277171936,
+          "points_next_level": 56.6650390625
+        },
+        "client": {
+          "level": 4,
+          "progress": 0.6512720525773454,
+          "points": 5.711032383086406,
+          "points_next_level": 6.59375
+        },
+        "core": {
+          "level": 7,
+          "progress": 0.9722658877871956,
+          "points": 24.39197459605702,
+          "points_next_level": 24.62890625
+        },
+        "ai": {
+          "level": 6,
+          "progress": 0.46643602297749703,
+          "points": 13.047123912114026,
+          "points_next_level": 16.0859375
+        },
+        "plugin": {
+          "level": 6,
+          "progress": 0.007297114776263795,
+          "points": 10.43218434899919,
+          "points_next_level": 16.0859375
+        },
+        "infra": {
+          "level": 7,
+          "progress": 0.6730293360433894,
+          "points": 21.835606085651925,
+          "points_next_level": 24.62890625
+        },
+        "maintainer": {
+          "level": 2,
+          "progress": 0.2222222222222222,
+          "points": 1.5,
+          "points_next_level": 2.375
+        },
+        "bug-fix": {
+          "level": 2,
+          "progress": 0.04444444444444448,
+          "points": 1.3,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "bug-fix",
+        "typescript",
+        "core",
+        "ai",
+        "maintainer",
+        "client"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 9,
+        "total_additions": 2289,
+        "total_deletions": 2458,
+        "files_by_type": {
+          ".ts": 5,
+          ".json": 2,
+          ".csv": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          6
+        ],
+        [
+          "agent",
+          1
+        ]
+      ]
+    },
+    {
+      "username": "okmoontx",
+      "tag_scores": {
+        "typescript": 43.17537209057529,
+        "plugin": 44.51938284117173,
+        "docs": 7.90086680798075,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 9,
+          "progress": 0.29820560995524537,
+          "points": 43.17537209057529,
+          "points_next_level": 56.6650390625
+        },
+        "plugin": {
+          "level": 9,
+          "progress": 0.3681272178712521,
+          "points": 44.51938284117173,
+          "points_next_level": 56.6650390625
+        },
+        "docs": {
+          "level": 5,
+          "progress": 0.3442612169167406,
+          "points": 7.90086680798075,
+          "points_next_level": 10.390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "typescript",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 11,
+        "total_additions": 267,
+        "total_deletions": 270,
+        "files_by_type": {
+          ".ts": 6,
+          ".json": 3,
+          ".MD": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          8
+        ],
+        [
+          "agent",
+          1
+        ]
+      ]
+    },
+    {
+      "username": "taofengno1",
+      "tag_scores": {
+        "client": 2.3774437510817346,
+        "typescript": 4.754887502163469,
+        "core": 3.1699250014423126,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "client": {
+          "level": 3,
+          "progress": 0.0014481487891760342,
+          "points": 2.3774437510817346,
+          "points_next_level": 4.0625
+        },
+        "typescript": {
+          "level": 4,
+          "progress": 0.27353580332383964,
+          "points": 4.754887502163469,
+          "points_next_level": 6.59375
+        },
+        "core": {
+          "level": 3,
+          "progress": 0.47106666752137044,
+          "points": 3.1699250014423126,
+          "points_next_level": 4.0625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "typescript",
+        "core",
+        "feature-dev",
+        "client",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "total_files": 2,
+        "total_additions": 2,
+        "total_deletions": 2,
+        "files_by_type": {
+          ".ts": 2
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          2
+        ]
+      ]
+    },
+    {
+      "username": "xiangxiecrypto",
+      "tag_scores": {
+        "typescript": 86.43154923918422,
+        "core": 3.1699250014423126,
+        "plugin": 80.8598763390727,
+        "docs": 7.6653359171851765,
+        "blockchain": 9.908392620773752,
+        "infra": 10.675327207613197,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 11,
+          "progress": 0.02159576895854048,
+          "points": 86.43154923918422,
+          "points_next_level": 128.746337890625
+        },
+        "core": {
+          "level": 3,
+          "progress": 0.47106666752137044,
+          "points": 3.1699250014423126,
+          "points_next_level": 4.0625
+        },
+        "plugin": {
+          "level": 10,
+          "progress": 0.8391509888807751,
+          "points": 80.8598763390727,
+          "points_next_level": 85.49755859375
+        },
+        "docs": {
+          "level": 5,
+          "progress": 0.2822283897113222,
+          "points": 7.6653359171851765,
+          "points_next_level": 10.390625
+        },
+        "blockchain": {
+          "level": 5,
+          "progress": 0.8729922951832103,
+          "points": 9.908392620773752,
+          "points_next_level": 10.390625
+        },
+        "infra": {
+          "level": 6,
+          "progress": 0.04998886498558193,
+          "points": 10.675327207613197,
+          "points_next_level": 16.0859375
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "core",
+        "blockchain",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 17,
+        "total_additions": 944,
+        "total_deletions": 12,
+        "files_by_type": {
+          ".json": 3,
+          ".ts": 11,
+          ".md": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          14
+        ],
+        [
+          "agent",
+          2
+        ]
+      ]
+    },
+    {
+      "username": "FiberInEliza",
+      "tag_scores": {
+        "typescript": 190.21996713047113,
+        "plugin": 200.49846258584782,
+        "docs": 16.547888622123523,
+        "test": 10.199137066227689,
+        "infra": 16.423418361292537,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 12,
+          "progress": 0.9475971382200837,
+          "points": 190.21996713047113,
+          "points_next_level": 193.6195068359375
+        },
+        "plugin": {
+          "level": 13,
+          "progress": 0.07069132854919026,
+          "points": 200.49846258584782,
+          "points_next_level": 290.92926025390625
+        },
+        "docs": {
+          "level": 7,
+          "progress": 0.054073839626713235,
+          "points": 16.547888622123523,
+          "points_next_level": 24.62890625
+        },
+        "test": {
+          "level": 5,
+          "progress": 0.949566963944741,
+          "points": 10.199137066227689,
+          "points_next_level": 10.390625
+        },
+        "infra": {
+          "level": 7,
+          "progress": 0.039503932551847046,
+          "points": 16.423418361292537,
+          "points_next_level": 24.62890625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "test",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 35,
+        "total_additions": 4525,
+        "total_deletions": 76,
+        "files_by_type": {
+          ".example": 2,
+          ".json": 6,
+          ".ts": 20,
+          ".md": 2,
+          ".mjs": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          29
+        ],
+        [
+          "agent",
+          2
+        ],
+        [
+          "characters",
+          1
+        ]
+      ]
+    },
+    {
+      "username": "0xalank",
+      "tag_scores": {
+        "typescript": 41.281477905823735,
+        "plugin": 44.34172538665763,
+        "docs": 7.22881869049588,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 9,
+          "progress": 0.19967654196837395,
+          "points": 41.281477905823735,
+          "points_next_level": 56.6650390625
+        },
+        "plugin": {
+          "level": 9,
+          "progress": 0.35888466168457106,
+          "points": 44.34172538665763,
+          "points_next_level": 56.6650390625
+        },
+        "docs": {
+          "level": 5,
+          "progress": 0.16726088967792735,
+          "points": 7.22881869049588,
+          "points_next_level": 10.390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "typescript",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 10,
+        "total_additions": 466,
+        "total_deletions": 0,
+        "files_by_type": {
+          ".example": 1,
+          ".json": 3,
+          ".ts": 5,
+          ".md": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          7
+        ],
+        [
+          "agent",
+          2
         ]
       ]
     },
@@ -5642,11 +5440,11 @@
         }
       },
       "tags": [
-        "blockchain",
-        "typescript",
-        "feature-dev",
-        "docs",
         "plugin",
+        "typescript",
+        "blockchain",
+        "docs",
+        "feature-dev",
         "architect"
       ],
       "stats": {
@@ -5747,8 +5545,8 @@
       "tags": [
         "typescript",
         "test",
-        "ai",
-        "core"
+        "core",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -5877,10 +5675,10 @@
         }
       },
       "tags": [
-        "typescript",
-        "infra",
-        "feature-dev",
         "plugin",
+        "infra",
+        "typescript",
+        "feature-dev",
         "architect"
       ],
       "stats": {
@@ -5990,13 +5788,13 @@
         }
       },
       "tags": [
+        "plugin",
+        "infra",
         "typescript",
         "test",
-        "infra",
-        "feature-dev",
-        "docs",
         "core",
-        "plugin",
+        "docs",
+        "feature-dev",
         "architect"
       ],
       "stats": {
@@ -6021,6 +5819,137 @@
         [
           "packages",
           9
+        ]
+      ]
+    },
+    {
+      "username": "zo-eth",
+      "tag_scores": {
+        "typescript": 44.383910515873424,
+        "plugin": 45.07715291228009,
+        "docs": 4.857980995127573,
+        "infra": 21.909244119629374,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "typescript": {
+          "level": 9,
+          "progress": 0.36107932572546797,
+          "points": 44.383910515873424,
+          "points_next_level": 56.6650390625
+        },
+        "plugin": {
+          "level": 9,
+          "progress": 0.3971449769940971,
+          "points": 45.07715291228009,
+          "points_next_level": 56.6650390625
+        },
+        "docs": {
+          "level": 4,
+          "progress": 0.3142640968405226,
+          "points": 4.857980995127573,
+          "points_next_level": 6.59375
+        },
+        "infra": {
+          "level": 7,
+          "progress": 0.68164906018524,
+          "points": 21.909244119629374,
+          "points_next_level": 24.62890625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "infra",
+        "typescript",
+        "blockchain",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 12,
+        "total_additions": 2559,
+        "total_deletions": 2433,
+        "files_by_type": {
+          ".json": 3,
+          ".ts": 5,
+          ".md": 1,
+          ".mjs": 1,
+          ".yaml": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          9
+        ],
+        [
+          "agent",
+          2
+        ]
+      ]
+    },
+    {
+      "username": "rRogick",
+      "tag_scores": {
+        "docs": 7.584962500721156,
+        "docs-writer": 1.0
+      },
+      "tag_levels": {
+        "docs": {
+          "level": 5,
+          "progress": 0.26106008249446083,
+          "points": 7.584962500721156,
+          "points_next_level": 10.390625
+        },
+        "docs-writer": {
+          "level": 1,
+          "progress": 0.6666666666666666,
+          "points": 1.0,
+          "points_next_level": 1.25
+        }
+      },
+      "tags": [
+        "docs",
+        "docs-writer"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 1,
+        "total_additions": 191,
+        "total_deletions": 0,
+        "files_by_type": {
+          ".md": 1
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "docs",
+          1
         ]
       ]
     },
@@ -6073,12 +6002,12 @@
         }
       },
       "tags": [
-        "blockchain",
+        "plugin",
         "typescript",
         "test",
+        "blockchain",
         "db",
-        "docs",
-        "plugin"
+        "docs"
       ],
       "stats": {
         "total_prs": 1,
@@ -6131,9 +6060,9 @@
         }
       },
       "tags": [
-        "maintainer",
         "plugin",
-        "bug-fix"
+        "bug-fix",
+        "maintainer"
       ],
       "stats": {
         "total_prs": 1,
@@ -6153,6 +6082,77 @@
         [
           "packages",
           1
+        ]
+      ]
+    },
+    {
+      "username": "pann0x",
+      "tag_scores": {
+        "plugin": 52.54352053611071,
+        "docs": 3.8073549220576037,
+        "typescript": 53.37989215288385,
+        "architect": 2.0,
+        "feature-dev": 1.7
+      },
+      "tag_levels": {
+        "plugin": {
+          "level": 9,
+          "progress": 0.7855796895278855,
+          "points": 52.54352053611071,
+          "points_next_level": 56.6650390625
+        },
+        "docs": {
+          "level": 3,
+          "progress": 0.8488029167748763,
+          "points": 3.8073549220576037,
+          "points_next_level": 4.0625
+        },
+        "typescript": {
+          "level": 9,
+          "progress": 0.8290915797669594,
+          "points": 53.37989215288385,
+          "points_next_level": 56.6650390625
+        },
+        "architect": {
+          "level": 2,
+          "progress": 0.6666666666666666,
+          "points": 2.0,
+          "points_next_level": 2.375
+        },
+        "feature-dev": {
+          "level": 2,
+          "progress": 0.39999999999999997,
+          "points": 1.7,
+          "points_next_level": 2.375
+        }
+      },
+      "tags": [
+        "plugin",
+        "typescript",
+        "docs",
+        "feature-dev",
+        "architect"
+      ],
+      "stats": {
+        "total_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "total_files": 9,
+        "total_additions": 319,
+        "total_deletions": 0,
+        "files_by_type": {
+          ".md": 1,
+          ".json": 2,
+          ".ts": 6
+        },
+        "prs_by_month": {
+          "2025-01": 1
+        }
+      },
+      "focus_areas": [
+        [
+          "packages",
+          9
         ]
       ]
     },
@@ -6717,10 +6717,10 @@
   ],
   "metadata": {
     "total_contributors": 115,
-    "analysis_date": "2025-04-04",
+    "analysis_date": "2025-04-05",
     "analysis_timeframe": {
       "after": "2024-10-15T00:00:00",
-      "before": "2025-04-04T23:59:59"
+      "before": "2025-04-05T23:59:59"
     },
     "tags_found": [
       "ai",
