@@ -1,7 +1,7 @@
-# elizaos Eliza (2025-04-13)
+# elizaos Eliza (2025-04-14)
     
 ## 📊 Overview
-Development focused on new features (add getMemoryByIds to database adapters), 2 bug fixes. with 31 contributors merging 8 PRs. Major work included unable to generate summary for sweetmantech due to an error.
+Development focused on new features (add getMemoryByIds to database adapters), 2 bug fixes. with 31 contributors merging 8 PRs. Major work included sweetmantech had no significant activity.
 
 ## 📈 Key Metrics
 | Metric | Count |
@@ -28,7 +28,7 @@ Development focused on new features (add getMemoryByIds to database adapters), 2
 - fix: farcaster memory
 
 ## 👥 Top Contributors
-- **sweetmantech**: Unable to generate summary for sweetmantech due to an error
+- **sweetmantech**: sweetmantech had no significant activity
 - **shakkernerd**: Unable to generate summary for shakkernerd due to an error
 - **wtfsayo**: Unable to generate summary for wtfsayo due to an error
 
