@@ -1,4 +1,4 @@
-# elizaos Eliza (2025-04-14)
+# elizaos Eliza (2025-04-15)
     
 ## 📊 Overview
 Development focused on new features (add getMemoryByIds to database adapters), 2 bug fixes. with 31 contributors merging 8 PRs. Major work included sweetmantech had no significant activity.
@@ -29,8 +29,8 @@ Development focused on new features (add getMemoryByIds to database adapters), 2
 
 ## 👥 Top Contributors
 - **sweetmantech**: sweetmantech had no significant activity
-- **shakkernerd**: Unable to generate summary for shakkernerd due to an error
-- **wtfsayo**: Unable to generate summary for wtfsayo due to an error
+- **shakkernerd**: shakkernerd had no significant activity
+- **wtfsayo**: wtfsayo had no significant activity
 
 ## ⚠️ Issues
 - **New Issues**: 8
