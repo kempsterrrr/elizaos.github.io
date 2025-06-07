@@ -1,4 +1,4 @@
-# elizaos Eliza (2025-06-06)
+# elizaos Eliza (2025-06-07)
     
 ## 📊 Overview
 Development focused on new features (add getMemoryByIds to database adapters), 2 bug fixes. with 31 contributors merging 8 PRs. Major work included sweetmantech had no significant activity.
