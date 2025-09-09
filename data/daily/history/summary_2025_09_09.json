@@ -1,0 +1,65 @@
+{
+  "title": "elizaos Eliza (2025-09-08)",
+  "version": "",
+  "overview": "Development focused on new features (add getMemoryByIds to database adapters), 2 bug fixes. with 31 contributors merging 8 PRs. Major work included sweetmantech had no significant activity.",
+  "metrics": {
+    "contributors": 31,
+    "merged_prs": 8,
+    "new_issues": 8,
+    "lines_changed": 1932
+  },
+  "changes": {
+    "features": [
+      "add getMemoryByIds to database adapters",
+      "Gitcoin passport"
+    ],
+    "fixes": [
+      "farcaster memory",
+      "fix derive key and update remote attestation"
+    ],
+    "chores": []
+  },
+  "areas": [
+    {
+      "name": "packages",
+      "files": 34,
+      "additions": 924,
+      "deletions": 375
+    },
+    {
+      "name": "root",
+      "files": 5,
+      "additions": 382,
+      "deletions": 13
+    },
+    {
+      "name": "docs",
+      "files": 5,
+      "additions": 222,
+      "deletions": 9
+    }
+  ],
+  "issues_summary": "working on 6 bugs including 'farcaster-client fails to embed', 'the tweets are getting cutoff... where can i adjust the tweet length?' and implementing 2 feature requests including 'feat: add ntf-starter and nft-generator', 'Trying to find how to run Eliza locally with two graphical cards. '",
+  "questions": [],
+  "top_contributors": [
+    {
+      "name": "sweetmantech",
+      "summary": "sweetmantech had no significant activity",
+      "areas": []
+    },
+    {
+      "name": "shakkernerd",
+      "summary": "shakkernerd had no significant activity",
+      "areas": [
+        ".env.example",
+        "packages",
+        "pnpm-lock.yaml"
+      ]
+    },
+    {
+      "name": "wtfsayo",
+      "summary": "wtfsayo had no significant activity",
+      "areas": []
+    }
+  ]
+}
